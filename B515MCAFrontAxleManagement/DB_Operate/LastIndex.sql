@@ -1,0 +1,4 @@
+USE HeatCircuit
+GO
+DBCC CHECKIDENT (Heater, NORESEED)
+GO

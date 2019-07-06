@@ -1,0 +1,15 @@
+C:\[1]SimaticNetProj\[2]在基于.NET的C#中通过OPC客户端获取大量数据\21447513_opc_massendaten_code_v10\Persistent_Data_ADO_XML\opcConnector\bin\Release\opcConnector.dll
+C:\[1]SimaticNetProj\[2]在基于.NET的C#中通过OPC客户端获取大量数据\21447513_opc_massendaten_code_v10\Persistent_Data_ADO_XML\opcConnector\obj\Release\ResolveAssemblyReference.cache
+C:\[1]SimaticNetProj\[2]在基于.NET的C#中通过OPC客户端获取大量数据\21447513_opc_massendaten_code_v10\Persistent_Data_ADO_XML\opcConnector\obj\Release\opcConnector.dll
+C:\[1]SimaticNetProj\opc_access_dat\21447513_opc_massendaten_code_v10\Persistent_Data_ADO_XML\opcConnector\bin\Release\opcConnector.dll
+C:\[1]SimaticNetProj\opc_access_dat\21447513_opc_massendaten_code_v10\Persistent_Data_ADO_XML\opcConnector\obj\Release\ResolveAssemblyReference.cache
+C:\[1]SimaticNetProj\opc_access_dat\21447513_opc_massendaten_code_v10\Persistent_Data_ADO_XML\opcConnector\obj\Release\opcConnector.dll
+D:\ACIGIT2018\[1]Src\B515MCAFrontAxleManagement180307_2\opcConnector\bin\Release\opcConnector.dll
+D:\ACIGIT2018\[1]Src\B515MCAFrontAxleManagement180307_2\opcConnector\obj\Release\ResolveAssemblyReference.cache
+D:\ACIGIT2018\[1]Src\B515MCAFrontAxleManagement180307_2\opcConnector\obj\Release\opcConnector.dll
+C:\[1]SimaticNetProj\[1]Src\B515MCA\B515MCAFrontAxleManagement180312_1\opcConnector\bin\Release\opcConnector.dll
+C:\[1]SimaticNetProj\[1]Src\B515MCA\B515MCAFrontAxleManagement180312_1\opcConnector\obj\Release\ResolveAssemblyReference.cache
+C:\[1]SimaticNetProj\[1]Src\B515MCA\B515MCAFrontAxleManagement180312_1\opcConnector\obj\Release\opcConnector.dll
+D:\ACIGIT2018\[1]Src\B515MCAFrontAxleManagement180314_2\opcConnector\bin\Release\opcConnector.dll
+D:\ACIGIT2018\[1]Src\B515MCAFrontAxleManagement180314_2\opcConnector\obj\Release\ResolveAssemblyReference.cache
+D:\ACIGIT2018\[1]Src\B515MCAFrontAxleManagement180314_2\opcConnector\obj\Release\opcConnector.dll

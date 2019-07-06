@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="XMLDB" targetNamespace="http://tempuri.org/XMLDB.xsd" elementFormDefault="qualified"
+	xmlns="http://tempuri.org/XMLDB.xsd" xmlns:mstns="http://tempuri.org/XMLDB.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="Heater">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="H_idx" msdata:AutoIncrement="true" type="xs:unsignedInt" />
+				<xs:element name="H_id" type="xs:short" />
+				<xs:element name="M_time" type="xs:time" />
+				<xs:element name="Pval" type="xs:float" />
+				<xs:element name="Qval" type="xs:float" />
+				<xs:element name="H_desc" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+		<xs:key name="PKHeater" msdata:PrimaryKey="true">
+			<xs:selector xpath="." />
+			<xs:field xpath="mstns:H_idx" />
+		</xs:key>
+	</xs:element>
+	<xs:element name="Measure">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="M_idx" msdata:AutoIncrement="true" type="xs:unsignedInt" />
+				<xs:element name="H_idx" type="xs:unsignedInt" minOccurs="0" />
+				<xs:element name="M_id" type="xs:short" />
+				<xs:element name="Temp" type="xs:float" />
+				<xs:element name="Pressure" type="xs:float" />
+				<xs:element name="Flow" type="xs:float" />
+				<xs:element name="Humidity" type="xs:float" />
+				<xs:element name="M_desc" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+		<xs:key name="PKMeasure" msdata:PrimaryKey="true">
+			<xs:selector xpath="." />
+			<xs:field xpath="mstns:M_idx" />
+		</xs:key>
+		<xs:keyref name="HeaterMeasure" refer="PKHeater" msdata:ConstraintOnly="true">
+			<xs:selector xpath="." />
+			<xs:field xpath="mstns:H_idx" />
+		</xs:keyref>
+	</xs:element>
+</xs:schema>

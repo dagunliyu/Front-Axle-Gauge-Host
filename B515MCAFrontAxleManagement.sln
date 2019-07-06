@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B515MCAFrontAxleManagement", "B515MCAFrontAxleManagement\B515MCAFrontAxleManagement.csproj", "{C59A7FE6-B943-40FD-9D78-068110E8488E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opcConnector", "opcConnector\opcConnector.csproj", "{24D55E0B-774C-481C-A7F2-E00C22FBB5AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A6FAF857-45FA-4AFC-9C92-3D7459DB9A4C}"
+	ProjectSection(SolutionItems) = preProject
+		B515MCAFrontAxleManagement.vsd = B515MCAFrontAxleManagement.vsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59A7FE6-B943-40FD-9D78-068110E8488E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59A7FE6-B943-40FD-9D78-068110E8488E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59A7FE6-B943-40FD-9D78-068110E8488E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59A7FE6-B943-40FD-9D78-068110E8488E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D55E0B-774C-481C-A7F2-E00C22FBB5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D55E0B-774C-481C-A7F2-E00C22FBB5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D55E0B-774C-481C-A7F2-E00C22FBB5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D55E0B-774C-481C-A7F2-E00C22FBB5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

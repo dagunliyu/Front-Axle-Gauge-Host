@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Diese Datei wird automatisch vom XML-Schema-Designer generiert. Sie enthält Layoutinformationen für Komponenten auf der Designeroberfläche.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="1488" viewPortTop="667" zoom="100">
+    <Heater_XmlElement left="2461" top="2012" width="6086" height="3810" selected="0" zOrder="1" index="0" expanded="1" />
+    <Measure_XmlElement left="11906" top="1853" width="5345" height="4656" selected="0" zOrder="2" index="1" expanded="1" />
+    <HeaterMeasure_XmlKeyref left="9975" top="3798" width="503" height="503" selected="0" zOrder="4" />
+</XSDDesignerLayout>

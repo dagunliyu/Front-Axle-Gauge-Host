@@ -1,0 +1,5285 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <XMLDB xmlns="http://tempuri.org/XMLDB.xsd">
+    <Heater diffgr:id="Heater1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <H_idx>0</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:11.0000000+01:00</M_time>
+      <Pval>116</Pval>
+      <Qval>3360</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <H_idx>1</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:11.0000000+01:00</M_time>
+      <Pval>117</Pval>
+      <Qval>3312</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+      <H_idx>2</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:12.0000000+01:00</M_time>
+      <Pval>118</Pval>
+      <Qval>3264</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+      <H_idx>3</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:12.0000000+01:00</M_time>
+      <Pval>119</Pval>
+      <Qval>3216</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+      <H_idx>4</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:12.0000000+01:00</M_time>
+      <Pval>120</Pval>
+      <Qval>3168</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+      <H_idx>5</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:12.0000000+01:00</M_time>
+      <Pval>121</Pval>
+      <Qval>3120</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+      <H_idx>6</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:12.0000000+01:00</M_time>
+      <Pval>122</Pval>
+      <Qval>3072</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+      <H_idx>7</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:12.0000000+01:00</M_time>
+      <Pval>123</Pval>
+      <Qval>3024</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+      <H_idx>8</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:12.0000000+01:00</M_time>
+      <Pval>124</Pval>
+      <Qval>2976</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+      <H_idx>9</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:12.0000000+01:00</M_time>
+      <Pval>125</Pval>
+      <Qval>2928</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+      <H_idx>10</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:12.0000000+01:00</M_time>
+      <Pval>126</Pval>
+      <Qval>2880</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+      <H_idx>11</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:12.0000000+01:00</M_time>
+      <Pval>127</Pval>
+      <Qval>2832</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+      <H_idx>12</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:13.0000000+01:00</M_time>
+      <Pval>128</Pval>
+      <Qval>2784</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+      <H_idx>13</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:13.0000000+01:00</M_time>
+      <Pval>129</Pval>
+      <Qval>2736</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+      <H_idx>14</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:13.0000000+01:00</M_time>
+      <Pval>130</Pval>
+      <Qval>2688</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+      <H_idx>15</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:13.0000000+01:00</M_time>
+      <Pval>131</Pval>
+      <Qval>2640</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater17" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+      <H_idx>16</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:13.0000000+01:00</M_time>
+      <Pval>132</Pval>
+      <Qval>2592</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater18" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+      <H_idx>17</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:13.0000000+01:00</M_time>
+      <Pval>133</Pval>
+      <Qval>2544</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater19" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+      <H_idx>18</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:15.0000000+01:00</M_time>
+      <Pval>150</Pval>
+      <Qval>1728</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater20" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+      <H_idx>19</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:15.0000000+01:00</M_time>
+      <Pval>151</Pval>
+      <Qval>1680</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater21" msdata:rowOrder="20" diffgr:hasChanges="inserted">
+      <H_idx>20</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:15.0000000+01:00</M_time>
+      <Pval>152</Pval>
+      <Qval>1632</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater22" msdata:rowOrder="21" diffgr:hasChanges="inserted">
+      <H_idx>21</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:15.0000000+01:00</M_time>
+      <Pval>153</Pval>
+      <Qval>1584</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater23" msdata:rowOrder="22" diffgr:hasChanges="inserted">
+      <H_idx>22</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:15.0000000+01:00</M_time>
+      <Pval>154</Pval>
+      <Qval>1536</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater24" msdata:rowOrder="23" diffgr:hasChanges="inserted">
+      <H_idx>23</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:15.0000000+01:00</M_time>
+      <Pval>155</Pval>
+      <Qval>1488</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater25" msdata:rowOrder="24" diffgr:hasChanges="inserted">
+      <H_idx>24</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:15.0000000+01:00</M_time>
+      <Pval>156</Pval>
+      <Qval>1440</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater26" msdata:rowOrder="25" diffgr:hasChanges="inserted">
+      <H_idx>25</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:15.0000000+01:00</M_time>
+      <Pval>157</Pval>
+      <Qval>1392</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater27" msdata:rowOrder="26" diffgr:hasChanges="inserted">
+      <H_idx>26</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:16.0000000+01:00</M_time>
+      <Pval>158</Pval>
+      <Qval>1344</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater28" msdata:rowOrder="27" diffgr:hasChanges="inserted">
+      <H_idx>27</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:16.0000000+01:00</M_time>
+      <Pval>159</Pval>
+      <Qval>1296</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater29" msdata:rowOrder="28" diffgr:hasChanges="inserted">
+      <H_idx>28</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:16.0000000+01:00</M_time>
+      <Pval>160</Pval>
+      <Qval>1248</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater30" msdata:rowOrder="29" diffgr:hasChanges="inserted">
+      <H_idx>29</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:16.0000000+01:00</M_time>
+      <Pval>161</Pval>
+      <Qval>1200</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater31" msdata:rowOrder="30" diffgr:hasChanges="inserted">
+      <H_idx>30</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:16.0000000+01:00</M_time>
+      <Pval>162</Pval>
+      <Qval>1152</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater32" msdata:rowOrder="31" diffgr:hasChanges="inserted">
+      <H_idx>31</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:16.0000000+01:00</M_time>
+      <Pval>163</Pval>
+      <Qval>1104</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater33" msdata:rowOrder="32" diffgr:hasChanges="inserted">
+      <H_idx>32</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:16.0000000+01:00</M_time>
+      <Pval>164</Pval>
+      <Qval>1056</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater34" msdata:rowOrder="33" diffgr:hasChanges="inserted">
+      <H_idx>33</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:16.0000000+01:00</M_time>
+      <Pval>165</Pval>
+      <Qval>1008</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater35" msdata:rowOrder="34" diffgr:hasChanges="inserted">
+      <H_idx>34</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:16.0000000+01:00</M_time>
+      <Pval>166</Pval>
+      <Qval>960</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater36" msdata:rowOrder="35" diffgr:hasChanges="inserted">
+      <H_idx>35</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:16.0000000+01:00</M_time>
+      <Pval>167</Pval>
+      <Qval>912</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater37" msdata:rowOrder="36" diffgr:hasChanges="inserted">
+      <H_idx>36</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:17.0000000+01:00</M_time>
+      <Pval>168</Pval>
+      <Qval>864</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater38" msdata:rowOrder="37" diffgr:hasChanges="inserted">
+      <H_idx>37</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:17.0000000+01:00</M_time>
+      <Pval>169</Pval>
+      <Qval>816</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater39" msdata:rowOrder="38" diffgr:hasChanges="inserted">
+      <H_idx>38</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:17.0000000+01:00</M_time>
+      <Pval>170</Pval>
+      <Qval>768</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater40" msdata:rowOrder="39" diffgr:hasChanges="inserted">
+      <H_idx>39</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:17.0000000+01:00</M_time>
+      <Pval>171</Pval>
+      <Qval>720</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater41" msdata:rowOrder="40" diffgr:hasChanges="inserted">
+      <H_idx>40</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:17.0000000+01:00</M_time>
+      <Pval>172</Pval>
+      <Qval>672</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater42" msdata:rowOrder="41" diffgr:hasChanges="inserted">
+      <H_idx>41</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:17.0000000+01:00</M_time>
+      <Pval>173</Pval>
+      <Qval>624</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater43" msdata:rowOrder="42" diffgr:hasChanges="inserted">
+      <H_idx>42</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:17.0000000+01:00</M_time>
+      <Pval>174</Pval>
+      <Qval>576</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater44" msdata:rowOrder="43" diffgr:hasChanges="inserted">
+      <H_idx>43</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:17.0000000+01:00</M_time>
+      <Pval>175</Pval>
+      <Qval>528</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater45" msdata:rowOrder="44" diffgr:hasChanges="inserted">
+      <H_idx>44</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:17.0000000+01:00</M_time>
+      <Pval>176</Pval>
+      <Qval>480</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater46" msdata:rowOrder="45" diffgr:hasChanges="inserted">
+      <H_idx>45</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:17.0000000+01:00</M_time>
+      <Pval>177</Pval>
+      <Qval>432</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater47" msdata:rowOrder="46" diffgr:hasChanges="inserted">
+      <H_idx>46</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:18.0000000+01:00</M_time>
+      <Pval>178</Pval>
+      <Qval>384</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater48" msdata:rowOrder="47" diffgr:hasChanges="inserted">
+      <H_idx>47</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:18.0000000+01:00</M_time>
+      <Pval>179</Pval>
+      <Qval>336</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater49" msdata:rowOrder="48" diffgr:hasChanges="inserted">
+      <H_idx>48</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:18.0000000+01:00</M_time>
+      <Pval>180</Pval>
+      <Qval>288</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater50" msdata:rowOrder="49" diffgr:hasChanges="inserted">
+      <H_idx>49</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:18.0000000+01:00</M_time>
+      <Pval>179</Pval>
+      <Qval>240</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater51" msdata:rowOrder="50" diffgr:hasChanges="inserted">
+      <H_idx>50</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:18.0000000+01:00</M_time>
+      <Pval>178</Pval>
+      <Qval>192</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater52" msdata:rowOrder="51" diffgr:hasChanges="inserted">
+      <H_idx>51</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:18.0000000+01:00</M_time>
+      <Pval>177</Pval>
+      <Qval>240</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater53" msdata:rowOrder="52" diffgr:hasChanges="inserted">
+      <H_idx>52</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:18.0000000+01:00</M_time>
+      <Pval>176</Pval>
+      <Qval>288</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater54" msdata:rowOrder="53" diffgr:hasChanges="inserted">
+      <H_idx>53</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:18.0000000+01:00</M_time>
+      <Pval>175</Pval>
+      <Qval>336</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater55" msdata:rowOrder="54" diffgr:hasChanges="inserted">
+      <H_idx>54</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:18.0000000+01:00</M_time>
+      <Pval>174</Pval>
+      <Qval>384</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater56" msdata:rowOrder="55" diffgr:hasChanges="inserted">
+      <H_idx>55</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:18.0000000+01:00</M_time>
+      <Pval>173</Pval>
+      <Qval>432</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater57" msdata:rowOrder="56" diffgr:hasChanges="inserted">
+      <H_idx>56</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:19.0000000+01:00</M_time>
+      <Pval>172</Pval>
+      <Qval>480</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater58" msdata:rowOrder="57" diffgr:hasChanges="inserted">
+      <H_idx>57</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:19.0000000+01:00</M_time>
+      <Pval>171</Pval>
+      <Qval>528</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater59" msdata:rowOrder="58" diffgr:hasChanges="inserted">
+      <H_idx>58</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:19.0000000+01:00</M_time>
+      <Pval>170</Pval>
+      <Qval>576</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Heater diffgr:id="Heater60" msdata:rowOrder="59" diffgr:hasChanges="inserted">
+      <H_idx>59</H_idx>
+      <H_id>1</H_id>
+      <M_time>2005-01-13T02:11:19.0000000+01:00</M_time>
+      <Pval>169</Pval>
+      <Qval>624</Qval>
+      <H_desc>HK01</H_desc>
+    </Heater>
+    <Measure diffgr:id="Measure1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <M_idx>0</M_idx>
+      <H_idx>0</H_idx>
+      <M_id>0</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>11.599968</Pressure>
+      <Flow>1.26000071</Flow>
+      <Humidity>80.3799744</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <M_idx>1</M_idx>
+      <H_idx>0</H_idx>
+      <M_id>1</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>11.599968</Pressure>
+      <Flow>1.26000071</Flow>
+      <Humidity>80.3799744</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+      <M_idx>2</M_idx>
+      <H_idx>0</H_idx>
+      <M_id>2</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>11.599968</Pressure>
+      <Flow>1.26000071</Flow>
+      <Humidity>80.3799744</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+      <M_idx>3</M_idx>
+      <H_idx>0</H_idx>
+      <M_id>3</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>11.599968</Pressure>
+      <Flow>1.26000071</Flow>
+      <Humidity>80.3799744</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+      <M_idx>4</M_idx>
+      <H_idx>0</H_idx>
+      <M_id>4</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>11.599968</Pressure>
+      <Flow>1.26000071</Flow>
+      <Humidity>80.3799744</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+      <M_idx>5</M_idx>
+      <H_idx>0</H_idx>
+      <M_id>5</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>11.599968</Pressure>
+      <Flow>1.26000071</Flow>
+      <Humidity>80.3799744</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+      <M_idx>6</M_idx>
+      <H_idx>0</H_idx>
+      <M_id>6</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>11.599968</Pressure>
+      <Flow>1.26000071</Flow>
+      <Humidity>80.3799744</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+      <M_idx>7</M_idx>
+      <H_idx>0</H_idx>
+      <M_id>7</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>11.599968</Pressure>
+      <Flow>1.26000071</Flow>
+      <Humidity>80.3799744</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+      <M_idx>8</M_idx>
+      <H_idx>1</H_idx>
+      <M_id>0</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>11.6999683</Pressure>
+      <Flow>1.2700007</Flow>
+      <Humidity>79.88998</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+      <M_idx>9</M_idx>
+      <H_idx>1</H_idx>
+      <M_id>1</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>11.6999683</Pressure>
+      <Flow>1.2700007</Flow>
+      <Humidity>79.88998</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+      <M_idx>10</M_idx>
+      <H_idx>1</H_idx>
+      <M_id>2</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>11.6999683</Pressure>
+      <Flow>1.2700007</Flow>
+      <Humidity>79.88998</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+      <M_idx>11</M_idx>
+      <H_idx>1</H_idx>
+      <M_id>3</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>11.6999683</Pressure>
+      <Flow>1.2700007</Flow>
+      <Humidity>79.88998</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+      <M_idx>12</M_idx>
+      <H_idx>1</H_idx>
+      <M_id>4</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>11.6999683</Pressure>
+      <Flow>1.2700007</Flow>
+      <Humidity>79.88998</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+      <M_idx>13</M_idx>
+      <H_idx>1</H_idx>
+      <M_id>5</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>11.6999683</Pressure>
+      <Flow>1.2700007</Flow>
+      <Humidity>79.88998</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+      <M_idx>14</M_idx>
+      <H_idx>1</H_idx>
+      <M_id>6</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>11.6999683</Pressure>
+      <Flow>1.2700007</Flow>
+      <Humidity>79.88998</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+      <M_idx>15</M_idx>
+      <H_idx>1</H_idx>
+      <M_id>7</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>11.6999683</Pressure>
+      <Flow>1.2700007</Flow>
+      <Humidity>79.88998</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure17" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+      <M_idx>16</M_idx>
+      <H_idx>2</H_idx>
+      <M_id>0</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>11.7999687</Pressure>
+      <Flow>1.28000069</Flow>
+      <Humidity>79.39998</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure18" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+      <M_idx>17</M_idx>
+      <H_idx>2</H_idx>
+      <M_id>1</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>11.7999687</Pressure>
+      <Flow>1.28000069</Flow>
+      <Humidity>79.39998</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure19" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+      <M_idx>18</M_idx>
+      <H_idx>2</H_idx>
+      <M_id>2</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>11.7999687</Pressure>
+      <Flow>1.28000069</Flow>
+      <Humidity>79.39998</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure20" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+      <M_idx>19</M_idx>
+      <H_idx>2</H_idx>
+      <M_id>3</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>11.7999687</Pressure>
+      <Flow>1.28000069</Flow>
+      <Humidity>79.39998</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure21" msdata:rowOrder="20" diffgr:hasChanges="inserted">
+      <M_idx>20</M_idx>
+      <H_idx>2</H_idx>
+      <M_id>4</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>11.7999687</Pressure>
+      <Flow>1.28000069</Flow>
+      <Humidity>79.39998</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure22" msdata:rowOrder="21" diffgr:hasChanges="inserted">
+      <M_idx>21</M_idx>
+      <H_idx>2</H_idx>
+      <M_id>5</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>11.7999687</Pressure>
+      <Flow>1.28000069</Flow>
+      <Humidity>79.39998</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure23" msdata:rowOrder="22" diffgr:hasChanges="inserted">
+      <M_idx>22</M_idx>
+      <H_idx>2</H_idx>
+      <M_id>6</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>11.7999687</Pressure>
+      <Flow>1.28000069</Flow>
+      <Humidity>79.39998</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure24" msdata:rowOrder="23" diffgr:hasChanges="inserted">
+      <M_idx>23</M_idx>
+      <H_idx>2</H_idx>
+      <M_id>7</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>11.7999687</Pressure>
+      <Flow>1.28000069</Flow>
+      <Humidity>79.39998</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure25" msdata:rowOrder="24" diffgr:hasChanges="inserted">
+      <M_idx>24</M_idx>
+      <H_idx>3</H_idx>
+      <M_id>0</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>11.8999691</Pressure>
+      <Flow>1.29000068</Flow>
+      <Humidity>78.90998</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure26" msdata:rowOrder="25" diffgr:hasChanges="inserted">
+      <M_idx>25</M_idx>
+      <H_idx>3</H_idx>
+      <M_id>1</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>11.8999691</Pressure>
+      <Flow>1.29000068</Flow>
+      <Humidity>78.90998</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure27" msdata:rowOrder="26" diffgr:hasChanges="inserted">
+      <M_idx>26</M_idx>
+      <H_idx>3</H_idx>
+      <M_id>2</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>11.8999691</Pressure>
+      <Flow>1.29000068</Flow>
+      <Humidity>78.90998</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure28" msdata:rowOrder="27" diffgr:hasChanges="inserted">
+      <M_idx>27</M_idx>
+      <H_idx>3</H_idx>
+      <M_id>3</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>11.8999691</Pressure>
+      <Flow>1.29000068</Flow>
+      <Humidity>78.90998</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure29" msdata:rowOrder="28" diffgr:hasChanges="inserted">
+      <M_idx>28</M_idx>
+      <H_idx>3</H_idx>
+      <M_id>4</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>11.8999691</Pressure>
+      <Flow>1.29000068</Flow>
+      <Humidity>78.90998</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure30" msdata:rowOrder="29" diffgr:hasChanges="inserted">
+      <M_idx>29</M_idx>
+      <H_idx>3</H_idx>
+      <M_id>5</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>11.8999691</Pressure>
+      <Flow>1.29000068</Flow>
+      <Humidity>78.90998</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure31" msdata:rowOrder="30" diffgr:hasChanges="inserted">
+      <M_idx>30</M_idx>
+      <H_idx>3</H_idx>
+      <M_id>6</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>11.8999691</Pressure>
+      <Flow>1.29000068</Flow>
+      <Humidity>78.90998</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure32" msdata:rowOrder="31" diffgr:hasChanges="inserted">
+      <M_idx>31</M_idx>
+      <H_idx>3</H_idx>
+      <M_id>7</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>11.8999691</Pressure>
+      <Flow>1.29000068</Flow>
+      <Humidity>78.90998</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure33" msdata:rowOrder="32" diffgr:hasChanges="inserted">
+      <M_idx>32</M_idx>
+      <H_idx>4</H_idx>
+      <M_id>0</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>11.9999695</Pressure>
+      <Flow>1.30000067</Flow>
+      <Humidity>78.41998</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure34" msdata:rowOrder="33" diffgr:hasChanges="inserted">
+      <M_idx>33</M_idx>
+      <H_idx>4</H_idx>
+      <M_id>1</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>11.9999695</Pressure>
+      <Flow>1.30000067</Flow>
+      <Humidity>78.41998</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure35" msdata:rowOrder="34" diffgr:hasChanges="inserted">
+      <M_idx>34</M_idx>
+      <H_idx>4</H_idx>
+      <M_id>2</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>11.9999695</Pressure>
+      <Flow>1.30000067</Flow>
+      <Humidity>78.41998</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure36" msdata:rowOrder="35" diffgr:hasChanges="inserted">
+      <M_idx>35</M_idx>
+      <H_idx>4</H_idx>
+      <M_id>3</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>11.9999695</Pressure>
+      <Flow>1.30000067</Flow>
+      <Humidity>78.41998</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure37" msdata:rowOrder="36" diffgr:hasChanges="inserted">
+      <M_idx>36</M_idx>
+      <H_idx>4</H_idx>
+      <M_id>4</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>11.9999695</Pressure>
+      <Flow>1.30000067</Flow>
+      <Humidity>78.41998</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure38" msdata:rowOrder="37" diffgr:hasChanges="inserted">
+      <M_idx>37</M_idx>
+      <H_idx>4</H_idx>
+      <M_id>5</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>11.9999695</Pressure>
+      <Flow>1.30000067</Flow>
+      <Humidity>78.41998</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure39" msdata:rowOrder="38" diffgr:hasChanges="inserted">
+      <M_idx>38</M_idx>
+      <H_idx>4</H_idx>
+      <M_id>6</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>11.9999695</Pressure>
+      <Flow>1.30000067</Flow>
+      <Humidity>78.41998</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure40" msdata:rowOrder="39" diffgr:hasChanges="inserted">
+      <M_idx>39</M_idx>
+      <H_idx>4</H_idx>
+      <M_id>7</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>11.9999695</Pressure>
+      <Flow>1.30000067</Flow>
+      <Humidity>78.41998</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure41" msdata:rowOrder="40" diffgr:hasChanges="inserted">
+      <M_idx>40</M_idx>
+      <H_idx>5</H_idx>
+      <M_id>0</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>12.09997</Pressure>
+      <Flow>1.31000066</Flow>
+      <Humidity>77.929985</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure42" msdata:rowOrder="41" diffgr:hasChanges="inserted">
+      <M_idx>41</M_idx>
+      <H_idx>5</H_idx>
+      <M_id>1</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>12.09997</Pressure>
+      <Flow>1.31000066</Flow>
+      <Humidity>77.929985</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure43" msdata:rowOrder="42" diffgr:hasChanges="inserted">
+      <M_idx>42</M_idx>
+      <H_idx>5</H_idx>
+      <M_id>2</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>12.09997</Pressure>
+      <Flow>1.31000066</Flow>
+      <Humidity>77.929985</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure44" msdata:rowOrder="43" diffgr:hasChanges="inserted">
+      <M_idx>43</M_idx>
+      <H_idx>5</H_idx>
+      <M_id>3</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>12.09997</Pressure>
+      <Flow>1.31000066</Flow>
+      <Humidity>77.929985</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure45" msdata:rowOrder="44" diffgr:hasChanges="inserted">
+      <M_idx>44</M_idx>
+      <H_idx>5</H_idx>
+      <M_id>4</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>12.09997</Pressure>
+      <Flow>1.31000066</Flow>
+      <Humidity>77.929985</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure46" msdata:rowOrder="45" diffgr:hasChanges="inserted">
+      <M_idx>45</M_idx>
+      <H_idx>5</H_idx>
+      <M_id>5</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>12.09997</Pressure>
+      <Flow>1.31000066</Flow>
+      <Humidity>77.929985</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure47" msdata:rowOrder="46" diffgr:hasChanges="inserted">
+      <M_idx>46</M_idx>
+      <H_idx>5</H_idx>
+      <M_id>6</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>12.09997</Pressure>
+      <Flow>1.31000066</Flow>
+      <Humidity>77.929985</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure48" msdata:rowOrder="47" diffgr:hasChanges="inserted">
+      <M_idx>47</M_idx>
+      <H_idx>5</H_idx>
+      <M_id>7</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>12.09997</Pressure>
+      <Flow>1.31000066</Flow>
+      <Humidity>77.929985</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure49" msdata:rowOrder="48" diffgr:hasChanges="inserted">
+      <M_idx>48</M_idx>
+      <H_idx>6</H_idx>
+      <M_id>0</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>12.19997</Pressure>
+      <Flow>1.32000065</Flow>
+      <Humidity>77.43999</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure50" msdata:rowOrder="49" diffgr:hasChanges="inserted">
+      <M_idx>49</M_idx>
+      <H_idx>6</H_idx>
+      <M_id>1</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>12.19997</Pressure>
+      <Flow>1.32000065</Flow>
+      <Humidity>77.43999</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure51" msdata:rowOrder="50" diffgr:hasChanges="inserted">
+      <M_idx>50</M_idx>
+      <H_idx>6</H_idx>
+      <M_id>2</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>12.19997</Pressure>
+      <Flow>1.32000065</Flow>
+      <Humidity>77.43999</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure52" msdata:rowOrder="51" diffgr:hasChanges="inserted">
+      <M_idx>51</M_idx>
+      <H_idx>6</H_idx>
+      <M_id>3</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>12.19997</Pressure>
+      <Flow>1.32000065</Flow>
+      <Humidity>77.43999</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure53" msdata:rowOrder="52" diffgr:hasChanges="inserted">
+      <M_idx>52</M_idx>
+      <H_idx>6</H_idx>
+      <M_id>4</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>12.19997</Pressure>
+      <Flow>1.32000065</Flow>
+      <Humidity>77.43999</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure54" msdata:rowOrder="53" diffgr:hasChanges="inserted">
+      <M_idx>53</M_idx>
+      <H_idx>6</H_idx>
+      <M_id>5</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>12.19997</Pressure>
+      <Flow>1.32000065</Flow>
+      <Humidity>77.43999</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure55" msdata:rowOrder="54" diffgr:hasChanges="inserted">
+      <M_idx>54</M_idx>
+      <H_idx>6</H_idx>
+      <M_id>6</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>12.19997</Pressure>
+      <Flow>1.32000065</Flow>
+      <Humidity>77.43999</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure56" msdata:rowOrder="55" diffgr:hasChanges="inserted">
+      <M_idx>55</M_idx>
+      <H_idx>6</H_idx>
+      <M_id>7</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>12.19997</Pressure>
+      <Flow>1.32000065</Flow>
+      <Humidity>77.43999</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure57" msdata:rowOrder="56" diffgr:hasChanges="inserted">
+      <M_idx>56</M_idx>
+      <H_idx>7</H_idx>
+      <M_id>0</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>12.2999706</Pressure>
+      <Flow>1.33000064</Flow>
+      <Humidity>76.94999</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure58" msdata:rowOrder="57" diffgr:hasChanges="inserted">
+      <M_idx>57</M_idx>
+      <H_idx>7</H_idx>
+      <M_id>1</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>12.2999706</Pressure>
+      <Flow>1.33000064</Flow>
+      <Humidity>76.94999</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure59" msdata:rowOrder="58" diffgr:hasChanges="inserted">
+      <M_idx>58</M_idx>
+      <H_idx>7</H_idx>
+      <M_id>2</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>12.2999706</Pressure>
+      <Flow>1.33000064</Flow>
+      <Humidity>76.94999</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure60" msdata:rowOrder="59" diffgr:hasChanges="inserted">
+      <M_idx>59</M_idx>
+      <H_idx>7</H_idx>
+      <M_id>3</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>12.2999706</Pressure>
+      <Flow>1.33000064</Flow>
+      <Humidity>76.94999</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure61" msdata:rowOrder="60" diffgr:hasChanges="inserted">
+      <M_idx>60</M_idx>
+      <H_idx>7</H_idx>
+      <M_id>4</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>12.2999706</Pressure>
+      <Flow>1.33000064</Flow>
+      <Humidity>76.94999</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure62" msdata:rowOrder="61" diffgr:hasChanges="inserted">
+      <M_idx>61</M_idx>
+      <H_idx>7</H_idx>
+      <M_id>5</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>12.2999706</Pressure>
+      <Flow>1.33000064</Flow>
+      <Humidity>76.94999</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure63" msdata:rowOrder="62" diffgr:hasChanges="inserted">
+      <M_idx>62</M_idx>
+      <H_idx>7</H_idx>
+      <M_id>6</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>12.2999706</Pressure>
+      <Flow>1.33000064</Flow>
+      <Humidity>76.94999</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure64" msdata:rowOrder="63" diffgr:hasChanges="inserted">
+      <M_idx>63</M_idx>
+      <H_idx>7</H_idx>
+      <M_id>7</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>12.2999706</Pressure>
+      <Flow>1.33000064</Flow>
+      <Humidity>76.94999</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure65" msdata:rowOrder="64" diffgr:hasChanges="inserted">
+      <M_idx>64</M_idx>
+      <H_idx>8</H_idx>
+      <M_id>0</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>12.399971</Pressure>
+      <Flow>1.34000063</Flow>
+      <Humidity>76.45999</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure66" msdata:rowOrder="65" diffgr:hasChanges="inserted">
+      <M_idx>65</M_idx>
+      <H_idx>8</H_idx>
+      <M_id>1</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>12.399971</Pressure>
+      <Flow>1.34000063</Flow>
+      <Humidity>76.45999</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure67" msdata:rowOrder="66" diffgr:hasChanges="inserted">
+      <M_idx>66</M_idx>
+      <H_idx>8</H_idx>
+      <M_id>2</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>12.399971</Pressure>
+      <Flow>1.34000063</Flow>
+      <Humidity>76.45999</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure68" msdata:rowOrder="67" diffgr:hasChanges="inserted">
+      <M_idx>67</M_idx>
+      <H_idx>8</H_idx>
+      <M_id>3</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>12.399971</Pressure>
+      <Flow>1.34000063</Flow>
+      <Humidity>76.45999</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure69" msdata:rowOrder="68" diffgr:hasChanges="inserted">
+      <M_idx>68</M_idx>
+      <H_idx>8</H_idx>
+      <M_id>4</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>12.399971</Pressure>
+      <Flow>1.34000063</Flow>
+      <Humidity>76.45999</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure70" msdata:rowOrder="69" diffgr:hasChanges="inserted">
+      <M_idx>69</M_idx>
+      <H_idx>8</H_idx>
+      <M_id>5</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>12.399971</Pressure>
+      <Flow>1.34000063</Flow>
+      <Humidity>76.45999</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure71" msdata:rowOrder="70" diffgr:hasChanges="inserted">
+      <M_idx>70</M_idx>
+      <H_idx>8</H_idx>
+      <M_id>6</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>12.399971</Pressure>
+      <Flow>1.34000063</Flow>
+      <Humidity>76.45999</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure72" msdata:rowOrder="71" diffgr:hasChanges="inserted">
+      <M_idx>71</M_idx>
+      <H_idx>8</H_idx>
+      <M_id>7</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>12.399971</Pressure>
+      <Flow>1.34000063</Flow>
+      <Humidity>76.45999</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure73" msdata:rowOrder="72" diffgr:hasChanges="inserted">
+      <M_idx>72</M_idx>
+      <H_idx>9</H_idx>
+      <M_id>0</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>12.4999714</Pressure>
+      <Flow>1.35000062</Flow>
+      <Humidity>75.96999</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure74" msdata:rowOrder="73" diffgr:hasChanges="inserted">
+      <M_idx>73</M_idx>
+      <H_idx>9</H_idx>
+      <M_id>1</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>12.4999714</Pressure>
+      <Flow>1.35000062</Flow>
+      <Humidity>75.96999</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure75" msdata:rowOrder="74" diffgr:hasChanges="inserted">
+      <M_idx>74</M_idx>
+      <H_idx>9</H_idx>
+      <M_id>2</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>12.4999714</Pressure>
+      <Flow>1.35000062</Flow>
+      <Humidity>75.96999</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure76" msdata:rowOrder="75" diffgr:hasChanges="inserted">
+      <M_idx>75</M_idx>
+      <H_idx>9</H_idx>
+      <M_id>3</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>12.4999714</Pressure>
+      <Flow>1.35000062</Flow>
+      <Humidity>75.96999</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure77" msdata:rowOrder="76" diffgr:hasChanges="inserted">
+      <M_idx>76</M_idx>
+      <H_idx>9</H_idx>
+      <M_id>4</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>12.4999714</Pressure>
+      <Flow>1.35000062</Flow>
+      <Humidity>75.96999</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure78" msdata:rowOrder="77" diffgr:hasChanges="inserted">
+      <M_idx>77</M_idx>
+      <H_idx>9</H_idx>
+      <M_id>5</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>12.4999714</Pressure>
+      <Flow>1.35000062</Flow>
+      <Humidity>75.96999</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure79" msdata:rowOrder="78" diffgr:hasChanges="inserted">
+      <M_idx>78</M_idx>
+      <H_idx>9</H_idx>
+      <M_id>6</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>12.4999714</Pressure>
+      <Flow>1.35000062</Flow>
+      <Humidity>75.96999</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure80" msdata:rowOrder="79" diffgr:hasChanges="inserted">
+      <M_idx>79</M_idx>
+      <H_idx>9</H_idx>
+      <M_id>7</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>12.4999714</Pressure>
+      <Flow>1.35000062</Flow>
+      <Humidity>75.96999</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure81" msdata:rowOrder="80" diffgr:hasChanges="inserted">
+      <M_idx>80</M_idx>
+      <H_idx>10</H_idx>
+      <M_id>0</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>12.5999718</Pressure>
+      <Flow>1.36000061</Flow>
+      <Humidity>75.4799957</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure82" msdata:rowOrder="81" diffgr:hasChanges="inserted">
+      <M_idx>81</M_idx>
+      <H_idx>10</H_idx>
+      <M_id>1</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>12.5999718</Pressure>
+      <Flow>1.36000061</Flow>
+      <Humidity>75.4799957</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure83" msdata:rowOrder="82" diffgr:hasChanges="inserted">
+      <M_idx>82</M_idx>
+      <H_idx>10</H_idx>
+      <M_id>2</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>12.5999718</Pressure>
+      <Flow>1.36000061</Flow>
+      <Humidity>75.4799957</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure84" msdata:rowOrder="83" diffgr:hasChanges="inserted">
+      <M_idx>83</M_idx>
+      <H_idx>10</H_idx>
+      <M_id>3</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>12.5999718</Pressure>
+      <Flow>1.36000061</Flow>
+      <Humidity>75.4799957</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure85" msdata:rowOrder="84" diffgr:hasChanges="inserted">
+      <M_idx>84</M_idx>
+      <H_idx>10</H_idx>
+      <M_id>4</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>12.5999718</Pressure>
+      <Flow>1.36000061</Flow>
+      <Humidity>75.4799957</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure86" msdata:rowOrder="85" diffgr:hasChanges="inserted">
+      <M_idx>85</M_idx>
+      <H_idx>10</H_idx>
+      <M_id>5</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>12.5999718</Pressure>
+      <Flow>1.36000061</Flow>
+      <Humidity>75.4799957</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure87" msdata:rowOrder="86" diffgr:hasChanges="inserted">
+      <M_idx>86</M_idx>
+      <H_idx>10</H_idx>
+      <M_id>6</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>12.5999718</Pressure>
+      <Flow>1.36000061</Flow>
+      <Humidity>75.4799957</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure88" msdata:rowOrder="87" diffgr:hasChanges="inserted">
+      <M_idx>87</M_idx>
+      <H_idx>10</H_idx>
+      <M_id>7</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>12.5999718</Pressure>
+      <Flow>1.36000061</Flow>
+      <Humidity>75.4799957</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure89" msdata:rowOrder="88" diffgr:hasChanges="inserted">
+      <M_idx>88</M_idx>
+      <H_idx>11</H_idx>
+      <M_id>0</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>12.6999722</Pressure>
+      <Flow>1.3700006</Flow>
+      <Humidity>74.99</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure90" msdata:rowOrder="89" diffgr:hasChanges="inserted">
+      <M_idx>89</M_idx>
+      <H_idx>11</H_idx>
+      <M_id>1</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>12.6999722</Pressure>
+      <Flow>1.3700006</Flow>
+      <Humidity>74.99</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure91" msdata:rowOrder="90" diffgr:hasChanges="inserted">
+      <M_idx>90</M_idx>
+      <H_idx>11</H_idx>
+      <M_id>2</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>12.6999722</Pressure>
+      <Flow>1.3700006</Flow>
+      <Humidity>74.99</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure92" msdata:rowOrder="91" diffgr:hasChanges="inserted">
+      <M_idx>91</M_idx>
+      <H_idx>11</H_idx>
+      <M_id>3</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>12.6999722</Pressure>
+      <Flow>1.3700006</Flow>
+      <Humidity>74.99</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure93" msdata:rowOrder="92" diffgr:hasChanges="inserted">
+      <M_idx>92</M_idx>
+      <H_idx>11</H_idx>
+      <M_id>4</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>12.6999722</Pressure>
+      <Flow>1.3700006</Flow>
+      <Humidity>74.99</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure94" msdata:rowOrder="93" diffgr:hasChanges="inserted">
+      <M_idx>93</M_idx>
+      <H_idx>11</H_idx>
+      <M_id>5</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>12.6999722</Pressure>
+      <Flow>1.3700006</Flow>
+      <Humidity>74.99</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure95" msdata:rowOrder="94" diffgr:hasChanges="inserted">
+      <M_idx>94</M_idx>
+      <H_idx>11</H_idx>
+      <M_id>6</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>12.6999722</Pressure>
+      <Flow>1.3700006</Flow>
+      <Humidity>74.99</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure96" msdata:rowOrder="95" diffgr:hasChanges="inserted">
+      <M_idx>95</M_idx>
+      <H_idx>11</H_idx>
+      <M_id>7</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>12.6999722</Pressure>
+      <Flow>1.3700006</Flow>
+      <Humidity>74.99</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure97" msdata:rowOrder="96" diffgr:hasChanges="inserted">
+      <M_idx>96</M_idx>
+      <H_idx>12</H_idx>
+      <M_id>0</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>12.7999725</Pressure>
+      <Flow>1.38000059</Flow>
+      <Humidity>74.5</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure98" msdata:rowOrder="97" diffgr:hasChanges="inserted">
+      <M_idx>97</M_idx>
+      <H_idx>12</H_idx>
+      <M_id>1</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>12.7999725</Pressure>
+      <Flow>1.38000059</Flow>
+      <Humidity>74.5</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure99" msdata:rowOrder="98" diffgr:hasChanges="inserted">
+      <M_idx>98</M_idx>
+      <H_idx>12</H_idx>
+      <M_id>2</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>12.7999725</Pressure>
+      <Flow>1.38000059</Flow>
+      <Humidity>74.5</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure100" msdata:rowOrder="99" diffgr:hasChanges="inserted">
+      <M_idx>99</M_idx>
+      <H_idx>12</H_idx>
+      <M_id>3</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>12.7999725</Pressure>
+      <Flow>1.38000059</Flow>
+      <Humidity>74.5</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure101" msdata:rowOrder="100" diffgr:hasChanges="inserted">
+      <M_idx>100</M_idx>
+      <H_idx>12</H_idx>
+      <M_id>4</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>12.7999725</Pressure>
+      <Flow>1.38000059</Flow>
+      <Humidity>74.5</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure102" msdata:rowOrder="101" diffgr:hasChanges="inserted">
+      <M_idx>101</M_idx>
+      <H_idx>12</H_idx>
+      <M_id>5</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>12.7999725</Pressure>
+      <Flow>1.38000059</Flow>
+      <Humidity>74.5</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure103" msdata:rowOrder="102" diffgr:hasChanges="inserted">
+      <M_idx>102</M_idx>
+      <H_idx>12</H_idx>
+      <M_id>6</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>12.7999725</Pressure>
+      <Flow>1.38000059</Flow>
+      <Humidity>74.5</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure104" msdata:rowOrder="103" diffgr:hasChanges="inserted">
+      <M_idx>103</M_idx>
+      <H_idx>12</H_idx>
+      <M_id>7</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>12.7999725</Pressure>
+      <Flow>1.38000059</Flow>
+      <Humidity>74.5</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure105" msdata:rowOrder="104" diffgr:hasChanges="inserted">
+      <M_idx>104</M_idx>
+      <H_idx>13</H_idx>
+      <M_id>0</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>12.8999729</Pressure>
+      <Flow>1.39000058</Flow>
+      <Humidity>74.01</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure106" msdata:rowOrder="105" diffgr:hasChanges="inserted">
+      <M_idx>105</M_idx>
+      <H_idx>13</H_idx>
+      <M_id>1</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>12.8999729</Pressure>
+      <Flow>1.39000058</Flow>
+      <Humidity>74.01</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure107" msdata:rowOrder="106" diffgr:hasChanges="inserted">
+      <M_idx>106</M_idx>
+      <H_idx>13</H_idx>
+      <M_id>2</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>12.8999729</Pressure>
+      <Flow>1.39000058</Flow>
+      <Humidity>74.01</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure108" msdata:rowOrder="107" diffgr:hasChanges="inserted">
+      <M_idx>107</M_idx>
+      <H_idx>13</H_idx>
+      <M_id>3</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>12.8999729</Pressure>
+      <Flow>1.39000058</Flow>
+      <Humidity>74.01</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure109" msdata:rowOrder="108" diffgr:hasChanges="inserted">
+      <M_idx>108</M_idx>
+      <H_idx>13</H_idx>
+      <M_id>4</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>12.8999729</Pressure>
+      <Flow>1.39000058</Flow>
+      <Humidity>74.01</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure110" msdata:rowOrder="109" diffgr:hasChanges="inserted">
+      <M_idx>109</M_idx>
+      <H_idx>13</H_idx>
+      <M_id>5</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>12.8999729</Pressure>
+      <Flow>1.39000058</Flow>
+      <Humidity>74.01</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure111" msdata:rowOrder="110" diffgr:hasChanges="inserted">
+      <M_idx>110</M_idx>
+      <H_idx>13</H_idx>
+      <M_id>6</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>12.8999729</Pressure>
+      <Flow>1.39000058</Flow>
+      <Humidity>74.01</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure112" msdata:rowOrder="111" diffgr:hasChanges="inserted">
+      <M_idx>111</M_idx>
+      <H_idx>13</H_idx>
+      <M_id>7</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>12.8999729</Pressure>
+      <Flow>1.39000058</Flow>
+      <Humidity>74.01</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure113" msdata:rowOrder="112" diffgr:hasChanges="inserted">
+      <M_idx>112</M_idx>
+      <H_idx>14</H_idx>
+      <M_id>0</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>12.9999733</Pressure>
+      <Flow>1.40000057</Flow>
+      <Humidity>73.5200043</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure114" msdata:rowOrder="113" diffgr:hasChanges="inserted">
+      <M_idx>113</M_idx>
+      <H_idx>14</H_idx>
+      <M_id>1</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>12.9999733</Pressure>
+      <Flow>1.40000057</Flow>
+      <Humidity>73.5200043</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure115" msdata:rowOrder="114" diffgr:hasChanges="inserted">
+      <M_idx>114</M_idx>
+      <H_idx>14</H_idx>
+      <M_id>2</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>12.9999733</Pressure>
+      <Flow>1.40000057</Flow>
+      <Humidity>73.5200043</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure116" msdata:rowOrder="115" diffgr:hasChanges="inserted">
+      <M_idx>115</M_idx>
+      <H_idx>14</H_idx>
+      <M_id>3</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>12.9999733</Pressure>
+      <Flow>1.40000057</Flow>
+      <Humidity>73.5200043</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure117" msdata:rowOrder="116" diffgr:hasChanges="inserted">
+      <M_idx>116</M_idx>
+      <H_idx>14</H_idx>
+      <M_id>4</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>12.9999733</Pressure>
+      <Flow>1.40000057</Flow>
+      <Humidity>73.5200043</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure118" msdata:rowOrder="117" diffgr:hasChanges="inserted">
+      <M_idx>117</M_idx>
+      <H_idx>14</H_idx>
+      <M_id>5</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>12.9999733</Pressure>
+      <Flow>1.40000057</Flow>
+      <Humidity>73.5200043</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure119" msdata:rowOrder="118" diffgr:hasChanges="inserted">
+      <M_idx>118</M_idx>
+      <H_idx>14</H_idx>
+      <M_id>6</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>12.9999733</Pressure>
+      <Flow>1.40000057</Flow>
+      <Humidity>73.5200043</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure120" msdata:rowOrder="119" diffgr:hasChanges="inserted">
+      <M_idx>119</M_idx>
+      <H_idx>14</H_idx>
+      <M_id>7</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>12.9999733</Pressure>
+      <Flow>1.40000057</Flow>
+      <Humidity>73.5200043</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure121" msdata:rowOrder="120" diffgr:hasChanges="inserted">
+      <M_idx>120</M_idx>
+      <H_idx>15</H_idx>
+      <M_id>0</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>13.0999737</Pressure>
+      <Flow>1.41000056</Flow>
+      <Humidity>73.03001</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure122" msdata:rowOrder="121" diffgr:hasChanges="inserted">
+      <M_idx>121</M_idx>
+      <H_idx>15</H_idx>
+      <M_id>1</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>13.0999737</Pressure>
+      <Flow>1.41000056</Flow>
+      <Humidity>73.03001</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure123" msdata:rowOrder="122" diffgr:hasChanges="inserted">
+      <M_idx>122</M_idx>
+      <H_idx>15</H_idx>
+      <M_id>2</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>13.0999737</Pressure>
+      <Flow>1.41000056</Flow>
+      <Humidity>73.03001</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure124" msdata:rowOrder="123" diffgr:hasChanges="inserted">
+      <M_idx>123</M_idx>
+      <H_idx>15</H_idx>
+      <M_id>3</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>13.0999737</Pressure>
+      <Flow>1.41000056</Flow>
+      <Humidity>73.03001</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure125" msdata:rowOrder="124" diffgr:hasChanges="inserted">
+      <M_idx>124</M_idx>
+      <H_idx>15</H_idx>
+      <M_id>4</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>13.0999737</Pressure>
+      <Flow>1.41000056</Flow>
+      <Humidity>73.03001</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure126" msdata:rowOrder="125" diffgr:hasChanges="inserted">
+      <M_idx>125</M_idx>
+      <H_idx>15</H_idx>
+      <M_id>5</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>13.0999737</Pressure>
+      <Flow>1.41000056</Flow>
+      <Humidity>73.03001</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure127" msdata:rowOrder="126" diffgr:hasChanges="inserted">
+      <M_idx>126</M_idx>
+      <H_idx>15</H_idx>
+      <M_id>6</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>13.0999737</Pressure>
+      <Flow>1.41000056</Flow>
+      <Humidity>73.03001</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure128" msdata:rowOrder="127" diffgr:hasChanges="inserted">
+      <M_idx>127</M_idx>
+      <H_idx>15</H_idx>
+      <M_id>7</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>13.0999737</Pressure>
+      <Flow>1.41000056</Flow>
+      <Humidity>73.03001</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure129" msdata:rowOrder="128" diffgr:hasChanges="inserted">
+      <M_idx>128</M_idx>
+      <H_idx>16</H_idx>
+      <M_id>0</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>13.1999741</Pressure>
+      <Flow>1.42000055</Flow>
+      <Humidity>72.54001</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure130" msdata:rowOrder="129" diffgr:hasChanges="inserted">
+      <M_idx>129</M_idx>
+      <H_idx>16</H_idx>
+      <M_id>1</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>13.1999741</Pressure>
+      <Flow>1.42000055</Flow>
+      <Humidity>72.54001</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure131" msdata:rowOrder="130" diffgr:hasChanges="inserted">
+      <M_idx>130</M_idx>
+      <H_idx>16</H_idx>
+      <M_id>2</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>13.1999741</Pressure>
+      <Flow>1.42000055</Flow>
+      <Humidity>72.54001</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure132" msdata:rowOrder="131" diffgr:hasChanges="inserted">
+      <M_idx>131</M_idx>
+      <H_idx>16</H_idx>
+      <M_id>3</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>13.1999741</Pressure>
+      <Flow>1.42000055</Flow>
+      <Humidity>72.54001</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure133" msdata:rowOrder="132" diffgr:hasChanges="inserted">
+      <M_idx>132</M_idx>
+      <H_idx>16</H_idx>
+      <M_id>4</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>13.1999741</Pressure>
+      <Flow>1.42000055</Flow>
+      <Humidity>72.54001</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure134" msdata:rowOrder="133" diffgr:hasChanges="inserted">
+      <M_idx>133</M_idx>
+      <H_idx>16</H_idx>
+      <M_id>5</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>13.1999741</Pressure>
+      <Flow>1.42000055</Flow>
+      <Humidity>72.54001</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure135" msdata:rowOrder="134" diffgr:hasChanges="inserted">
+      <M_idx>134</M_idx>
+      <H_idx>16</H_idx>
+      <M_id>6</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>13.1999741</Pressure>
+      <Flow>1.42000055</Flow>
+      <Humidity>72.54001</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure136" msdata:rowOrder="135" diffgr:hasChanges="inserted">
+      <M_idx>135</M_idx>
+      <H_idx>16</H_idx>
+      <M_id>7</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>13.1999741</Pressure>
+      <Flow>1.42000055</Flow>
+      <Humidity>72.54001</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure137" msdata:rowOrder="136" diffgr:hasChanges="inserted">
+      <M_idx>136</M_idx>
+      <H_idx>17</H_idx>
+      <M_id>0</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>13.2999744</Pressure>
+      <Flow>1.43000054</Flow>
+      <Humidity>72.05001</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure138" msdata:rowOrder="137" diffgr:hasChanges="inserted">
+      <M_idx>137</M_idx>
+      <H_idx>17</H_idx>
+      <M_id>1</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>13.2999744</Pressure>
+      <Flow>1.43000054</Flow>
+      <Humidity>72.05001</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure139" msdata:rowOrder="138" diffgr:hasChanges="inserted">
+      <M_idx>138</M_idx>
+      <H_idx>17</H_idx>
+      <M_id>2</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>13.2999744</Pressure>
+      <Flow>1.43000054</Flow>
+      <Humidity>72.05001</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure140" msdata:rowOrder="139" diffgr:hasChanges="inserted">
+      <M_idx>139</M_idx>
+      <H_idx>17</H_idx>
+      <M_id>3</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>13.2999744</Pressure>
+      <Flow>1.43000054</Flow>
+      <Humidity>72.05001</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure141" msdata:rowOrder="140" diffgr:hasChanges="inserted">
+      <M_idx>140</M_idx>
+      <H_idx>17</H_idx>
+      <M_id>4</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>13.2999744</Pressure>
+      <Flow>1.43000054</Flow>
+      <Humidity>72.05001</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure142" msdata:rowOrder="141" diffgr:hasChanges="inserted">
+      <M_idx>141</M_idx>
+      <H_idx>17</H_idx>
+      <M_id>5</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>13.2999744</Pressure>
+      <Flow>1.43000054</Flow>
+      <Humidity>72.05001</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure143" msdata:rowOrder="142" diffgr:hasChanges="inserted">
+      <M_idx>142</M_idx>
+      <H_idx>17</H_idx>
+      <M_id>6</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>13.2999744</Pressure>
+      <Flow>1.43000054</Flow>
+      <Humidity>72.05001</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure144" msdata:rowOrder="143" diffgr:hasChanges="inserted">
+      <M_idx>143</M_idx>
+      <H_idx>17</H_idx>
+      <M_id>7</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>13.2999744</Pressure>
+      <Flow>1.43000054</Flow>
+      <Humidity>72.05001</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure145" msdata:rowOrder="144" diffgr:hasChanges="inserted">
+      <M_idx>144</M_idx>
+      <H_idx>18</H_idx>
+      <M_id>0</M_id>
+      <Temp>19.9999619</Temp>
+      <Pressure>14.9999809</Pressure>
+      <Flow>1.60000038</Flow>
+      <Humidity>63.7200432</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure146" msdata:rowOrder="145" diffgr:hasChanges="inserted">
+      <M_idx>145</M_idx>
+      <H_idx>18</H_idx>
+      <M_id>1</M_id>
+      <Temp>19.9999619</Temp>
+      <Pressure>14.9999809</Pressure>
+      <Flow>1.60000038</Flow>
+      <Humidity>63.7200432</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure147" msdata:rowOrder="146" diffgr:hasChanges="inserted">
+      <M_idx>146</M_idx>
+      <H_idx>18</H_idx>
+      <M_id>2</M_id>
+      <Temp>19.9999619</Temp>
+      <Pressure>14.9999809</Pressure>
+      <Flow>1.60000038</Flow>
+      <Humidity>63.7200432</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure148" msdata:rowOrder="147" diffgr:hasChanges="inserted">
+      <M_idx>147</M_idx>
+      <H_idx>18</H_idx>
+      <M_id>3</M_id>
+      <Temp>19.9999619</Temp>
+      <Pressure>14.9999809</Pressure>
+      <Flow>1.60000038</Flow>
+      <Humidity>63.7200432</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure149" msdata:rowOrder="148" diffgr:hasChanges="inserted">
+      <M_idx>148</M_idx>
+      <H_idx>18</H_idx>
+      <M_id>4</M_id>
+      <Temp>19.9999619</Temp>
+      <Pressure>14.9999809</Pressure>
+      <Flow>1.60000038</Flow>
+      <Humidity>63.7200432</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure150" msdata:rowOrder="149" diffgr:hasChanges="inserted">
+      <M_idx>149</M_idx>
+      <H_idx>18</H_idx>
+      <M_id>5</M_id>
+      <Temp>19.9999619</Temp>
+      <Pressure>14.9999809</Pressure>
+      <Flow>1.60000038</Flow>
+      <Humidity>63.7200432</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure151" msdata:rowOrder="150" diffgr:hasChanges="inserted">
+      <M_idx>150</M_idx>
+      <H_idx>18</H_idx>
+      <M_id>6</M_id>
+      <Temp>19.9999619</Temp>
+      <Pressure>14.9999809</Pressure>
+      <Flow>1.60000038</Flow>
+      <Humidity>63.7200432</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure152" msdata:rowOrder="151" diffgr:hasChanges="inserted">
+      <M_idx>151</M_idx>
+      <H_idx>18</H_idx>
+      <M_id>7</M_id>
+      <Temp>19.9999619</Temp>
+      <Pressure>14.9999809</Pressure>
+      <Flow>1.60000038</Flow>
+      <Humidity>63.7200432</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure153" msdata:rowOrder="152" diffgr:hasChanges="inserted">
+      <M_idx>152</M_idx>
+      <H_idx>19</H_idx>
+      <M_id>0</M_id>
+      <Temp>20.1999626</Temp>
+      <Pressure>15.0999813</Pressure>
+      <Flow>1.61000037</Flow>
+      <Humidity>63.23004</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure154" msdata:rowOrder="153" diffgr:hasChanges="inserted">
+      <M_idx>153</M_idx>
+      <H_idx>19</H_idx>
+      <M_id>1</M_id>
+      <Temp>20.1999626</Temp>
+      <Pressure>15.0999813</Pressure>
+      <Flow>1.61000037</Flow>
+      <Humidity>63.23004</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure155" msdata:rowOrder="154" diffgr:hasChanges="inserted">
+      <M_idx>154</M_idx>
+      <H_idx>19</H_idx>
+      <M_id>2</M_id>
+      <Temp>20.1999626</Temp>
+      <Pressure>15.0999813</Pressure>
+      <Flow>1.61000037</Flow>
+      <Humidity>63.23004</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure156" msdata:rowOrder="155" diffgr:hasChanges="inserted">
+      <M_idx>155</M_idx>
+      <H_idx>19</H_idx>
+      <M_id>3</M_id>
+      <Temp>20.1999626</Temp>
+      <Pressure>15.0999813</Pressure>
+      <Flow>1.61000037</Flow>
+      <Humidity>63.23004</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure157" msdata:rowOrder="156" diffgr:hasChanges="inserted">
+      <M_idx>156</M_idx>
+      <H_idx>19</H_idx>
+      <M_id>4</M_id>
+      <Temp>20.1999626</Temp>
+      <Pressure>15.0999813</Pressure>
+      <Flow>1.61000037</Flow>
+      <Humidity>63.23004</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure158" msdata:rowOrder="157" diffgr:hasChanges="inserted">
+      <M_idx>157</M_idx>
+      <H_idx>19</H_idx>
+      <M_id>5</M_id>
+      <Temp>20.1999626</Temp>
+      <Pressure>15.0999813</Pressure>
+      <Flow>1.61000037</Flow>
+      <Humidity>63.23004</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure159" msdata:rowOrder="158" diffgr:hasChanges="inserted">
+      <M_idx>158</M_idx>
+      <H_idx>19</H_idx>
+      <M_id>6</M_id>
+      <Temp>20.1999626</Temp>
+      <Pressure>15.0999813</Pressure>
+      <Flow>1.61000037</Flow>
+      <Humidity>63.23004</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure160" msdata:rowOrder="159" diffgr:hasChanges="inserted">
+      <M_idx>159</M_idx>
+      <H_idx>19</H_idx>
+      <M_id>7</M_id>
+      <Temp>20.1999626</Temp>
+      <Pressure>15.0999813</Pressure>
+      <Flow>1.61000037</Flow>
+      <Humidity>63.23004</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure161" msdata:rowOrder="160" diffgr:hasChanges="inserted">
+      <M_idx>160</M_idx>
+      <H_idx>20</H_idx>
+      <M_id>0</M_id>
+      <Temp>20.3999634</Temp>
+      <Pressure>15.1999817</Pressure>
+      <Flow>1.62000036</Flow>
+      <Humidity>62.74004</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure162" msdata:rowOrder="161" diffgr:hasChanges="inserted">
+      <M_idx>161</M_idx>
+      <H_idx>20</H_idx>
+      <M_id>1</M_id>
+      <Temp>20.3999634</Temp>
+      <Pressure>15.1999817</Pressure>
+      <Flow>1.62000036</Flow>
+      <Humidity>62.74004</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure163" msdata:rowOrder="162" diffgr:hasChanges="inserted">
+      <M_idx>162</M_idx>
+      <H_idx>20</H_idx>
+      <M_id>2</M_id>
+      <Temp>20.3999634</Temp>
+      <Pressure>15.1999817</Pressure>
+      <Flow>1.62000036</Flow>
+      <Humidity>62.74004</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure164" msdata:rowOrder="163" diffgr:hasChanges="inserted">
+      <M_idx>163</M_idx>
+      <H_idx>20</H_idx>
+      <M_id>3</M_id>
+      <Temp>20.3999634</Temp>
+      <Pressure>15.1999817</Pressure>
+      <Flow>1.62000036</Flow>
+      <Humidity>62.74004</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure165" msdata:rowOrder="164" diffgr:hasChanges="inserted">
+      <M_idx>164</M_idx>
+      <H_idx>20</H_idx>
+      <M_id>4</M_id>
+      <Temp>20.3999634</Temp>
+      <Pressure>15.1999817</Pressure>
+      <Flow>1.62000036</Flow>
+      <Humidity>62.74004</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure166" msdata:rowOrder="165" diffgr:hasChanges="inserted">
+      <M_idx>165</M_idx>
+      <H_idx>20</H_idx>
+      <M_id>5</M_id>
+      <Temp>20.3999634</Temp>
+      <Pressure>15.1999817</Pressure>
+      <Flow>1.62000036</Flow>
+      <Humidity>62.74004</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure167" msdata:rowOrder="166" diffgr:hasChanges="inserted">
+      <M_idx>166</M_idx>
+      <H_idx>20</H_idx>
+      <M_id>6</M_id>
+      <Temp>20.3999634</Temp>
+      <Pressure>15.1999817</Pressure>
+      <Flow>1.62000036</Flow>
+      <Humidity>62.74004</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure168" msdata:rowOrder="167" diffgr:hasChanges="inserted">
+      <M_idx>167</M_idx>
+      <H_idx>20</H_idx>
+      <M_id>7</M_id>
+      <Temp>20.3999634</Temp>
+      <Pressure>15.1999817</Pressure>
+      <Flow>1.62000036</Flow>
+      <Humidity>62.74004</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure169" msdata:rowOrder="168" diffgr:hasChanges="inserted">
+      <M_idx>168</M_idx>
+      <H_idx>21</H_idx>
+      <M_id>0</M_id>
+      <Temp>20.5999641</Temp>
+      <Pressure>15.2999821</Pressure>
+      <Flow>1.63000035</Flow>
+      <Humidity>62.25004</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure170" msdata:rowOrder="169" diffgr:hasChanges="inserted">
+      <M_idx>169</M_idx>
+      <H_idx>21</H_idx>
+      <M_id>1</M_id>
+      <Temp>20.5999641</Temp>
+      <Pressure>15.2999821</Pressure>
+      <Flow>1.63000035</Flow>
+      <Humidity>62.25004</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure171" msdata:rowOrder="170" diffgr:hasChanges="inserted">
+      <M_idx>170</M_idx>
+      <H_idx>21</H_idx>
+      <M_id>2</M_id>
+      <Temp>20.5999641</Temp>
+      <Pressure>15.2999821</Pressure>
+      <Flow>1.63000035</Flow>
+      <Humidity>62.25004</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure172" msdata:rowOrder="171" diffgr:hasChanges="inserted">
+      <M_idx>171</M_idx>
+      <H_idx>21</H_idx>
+      <M_id>3</M_id>
+      <Temp>20.5999641</Temp>
+      <Pressure>15.2999821</Pressure>
+      <Flow>1.63000035</Flow>
+      <Humidity>62.25004</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure173" msdata:rowOrder="172" diffgr:hasChanges="inserted">
+      <M_idx>172</M_idx>
+      <H_idx>21</H_idx>
+      <M_id>4</M_id>
+      <Temp>20.5999641</Temp>
+      <Pressure>15.2999821</Pressure>
+      <Flow>1.63000035</Flow>
+      <Humidity>62.25004</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure174" msdata:rowOrder="173" diffgr:hasChanges="inserted">
+      <M_idx>173</M_idx>
+      <H_idx>21</H_idx>
+      <M_id>5</M_id>
+      <Temp>20.5999641</Temp>
+      <Pressure>15.2999821</Pressure>
+      <Flow>1.63000035</Flow>
+      <Humidity>62.25004</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure175" msdata:rowOrder="174" diffgr:hasChanges="inserted">
+      <M_idx>174</M_idx>
+      <H_idx>21</H_idx>
+      <M_id>6</M_id>
+      <Temp>20.5999641</Temp>
+      <Pressure>15.2999821</Pressure>
+      <Flow>1.63000035</Flow>
+      <Humidity>62.25004</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure176" msdata:rowOrder="175" diffgr:hasChanges="inserted">
+      <M_idx>175</M_idx>
+      <H_idx>21</H_idx>
+      <M_id>7</M_id>
+      <Temp>20.5999641</Temp>
+      <Pressure>15.2999821</Pressure>
+      <Flow>1.63000035</Flow>
+      <Humidity>62.25004</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure177" msdata:rowOrder="176" diffgr:hasChanges="inserted">
+      <M_idx>176</M_idx>
+      <H_idx>22</H_idx>
+      <M_id>0</M_id>
+      <Temp>20.7999649</Temp>
+      <Pressure>15.3999825</Pressure>
+      <Flow>1.64000034</Flow>
+      <Humidity>61.7600365</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure178" msdata:rowOrder="177" diffgr:hasChanges="inserted">
+      <M_idx>177</M_idx>
+      <H_idx>22</H_idx>
+      <M_id>1</M_id>
+      <Temp>20.7999649</Temp>
+      <Pressure>15.3999825</Pressure>
+      <Flow>1.64000034</Flow>
+      <Humidity>61.7600365</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure179" msdata:rowOrder="178" diffgr:hasChanges="inserted">
+      <M_idx>178</M_idx>
+      <H_idx>22</H_idx>
+      <M_id>2</M_id>
+      <Temp>20.7999649</Temp>
+      <Pressure>15.3999825</Pressure>
+      <Flow>1.64000034</Flow>
+      <Humidity>61.7600365</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure180" msdata:rowOrder="179" diffgr:hasChanges="inserted">
+      <M_idx>179</M_idx>
+      <H_idx>22</H_idx>
+      <M_id>3</M_id>
+      <Temp>20.7999649</Temp>
+      <Pressure>15.3999825</Pressure>
+      <Flow>1.64000034</Flow>
+      <Humidity>61.7600365</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure181" msdata:rowOrder="180" diffgr:hasChanges="inserted">
+      <M_idx>180</M_idx>
+      <H_idx>22</H_idx>
+      <M_id>4</M_id>
+      <Temp>20.7999649</Temp>
+      <Pressure>15.3999825</Pressure>
+      <Flow>1.64000034</Flow>
+      <Humidity>61.7600365</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure182" msdata:rowOrder="181" diffgr:hasChanges="inserted">
+      <M_idx>181</M_idx>
+      <H_idx>22</H_idx>
+      <M_id>5</M_id>
+      <Temp>20.7999649</Temp>
+      <Pressure>15.3999825</Pressure>
+      <Flow>1.64000034</Flow>
+      <Humidity>61.7600365</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure183" msdata:rowOrder="182" diffgr:hasChanges="inserted">
+      <M_idx>182</M_idx>
+      <H_idx>22</H_idx>
+      <M_id>6</M_id>
+      <Temp>20.7999649</Temp>
+      <Pressure>15.3999825</Pressure>
+      <Flow>1.64000034</Flow>
+      <Humidity>61.7600365</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure184" msdata:rowOrder="183" diffgr:hasChanges="inserted">
+      <M_idx>183</M_idx>
+      <H_idx>22</H_idx>
+      <M_id>7</M_id>
+      <Temp>20.7999649</Temp>
+      <Pressure>15.3999825</Pressure>
+      <Flow>1.64000034</Flow>
+      <Humidity>61.7600365</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure185" msdata:rowOrder="184" diffgr:hasChanges="inserted">
+      <M_idx>184</M_idx>
+      <H_idx>23</H_idx>
+      <M_id>0</M_id>
+      <Temp>20.9999657</Temp>
+      <Pressure>15.4999828</Pressure>
+      <Flow>1.65000033</Flow>
+      <Humidity>61.2700348</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure186" msdata:rowOrder="185" diffgr:hasChanges="inserted">
+      <M_idx>185</M_idx>
+      <H_idx>23</H_idx>
+      <M_id>1</M_id>
+      <Temp>20.9999657</Temp>
+      <Pressure>15.4999828</Pressure>
+      <Flow>1.65000033</Flow>
+      <Humidity>61.2700348</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure187" msdata:rowOrder="186" diffgr:hasChanges="inserted">
+      <M_idx>186</M_idx>
+      <H_idx>23</H_idx>
+      <M_id>2</M_id>
+      <Temp>20.9999657</Temp>
+      <Pressure>15.4999828</Pressure>
+      <Flow>1.65000033</Flow>
+      <Humidity>61.2700348</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure188" msdata:rowOrder="187" diffgr:hasChanges="inserted">
+      <M_idx>187</M_idx>
+      <H_idx>23</H_idx>
+      <M_id>3</M_id>
+      <Temp>20.9999657</Temp>
+      <Pressure>15.4999828</Pressure>
+      <Flow>1.65000033</Flow>
+      <Humidity>61.2700348</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure189" msdata:rowOrder="188" diffgr:hasChanges="inserted">
+      <M_idx>188</M_idx>
+      <H_idx>23</H_idx>
+      <M_id>4</M_id>
+      <Temp>20.9999657</Temp>
+      <Pressure>15.4999828</Pressure>
+      <Flow>1.65000033</Flow>
+      <Humidity>61.2700348</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure190" msdata:rowOrder="189" diffgr:hasChanges="inserted">
+      <M_idx>189</M_idx>
+      <H_idx>23</H_idx>
+      <M_id>5</M_id>
+      <Temp>20.9999657</Temp>
+      <Pressure>15.4999828</Pressure>
+      <Flow>1.65000033</Flow>
+      <Humidity>61.2700348</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure191" msdata:rowOrder="190" diffgr:hasChanges="inserted">
+      <M_idx>190</M_idx>
+      <H_idx>23</H_idx>
+      <M_id>6</M_id>
+      <Temp>20.9999657</Temp>
+      <Pressure>15.4999828</Pressure>
+      <Flow>1.65000033</Flow>
+      <Humidity>61.2700348</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure192" msdata:rowOrder="191" diffgr:hasChanges="inserted">
+      <M_idx>191</M_idx>
+      <H_idx>23</H_idx>
+      <M_id>7</M_id>
+      <Temp>20.9999657</Temp>
+      <Pressure>15.4999828</Pressure>
+      <Flow>1.65000033</Flow>
+      <Humidity>61.2700348</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure193" msdata:rowOrder="192" diffgr:hasChanges="inserted">
+      <M_idx>192</M_idx>
+      <H_idx>24</H_idx>
+      <M_id>0</M_id>
+      <Temp>21.1999664</Temp>
+      <Pressure>15.5999832</Pressure>
+      <Flow>1.66000032</Flow>
+      <Humidity>60.7800331</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure194" msdata:rowOrder="193" diffgr:hasChanges="inserted">
+      <M_idx>193</M_idx>
+      <H_idx>24</H_idx>
+      <M_id>1</M_id>
+      <Temp>21.1999664</Temp>
+      <Pressure>15.5999832</Pressure>
+      <Flow>1.66000032</Flow>
+      <Humidity>60.7800331</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure195" msdata:rowOrder="194" diffgr:hasChanges="inserted">
+      <M_idx>194</M_idx>
+      <H_idx>24</H_idx>
+      <M_id>2</M_id>
+      <Temp>21.1999664</Temp>
+      <Pressure>15.5999832</Pressure>
+      <Flow>1.66000032</Flow>
+      <Humidity>60.7800331</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure196" msdata:rowOrder="195" diffgr:hasChanges="inserted">
+      <M_idx>195</M_idx>
+      <H_idx>24</H_idx>
+      <M_id>3</M_id>
+      <Temp>21.1999664</Temp>
+      <Pressure>15.5999832</Pressure>
+      <Flow>1.66000032</Flow>
+      <Humidity>60.7800331</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure197" msdata:rowOrder="196" diffgr:hasChanges="inserted">
+      <M_idx>196</M_idx>
+      <H_idx>24</H_idx>
+      <M_id>4</M_id>
+      <Temp>21.1999664</Temp>
+      <Pressure>15.5999832</Pressure>
+      <Flow>1.66000032</Flow>
+      <Humidity>60.7800331</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure198" msdata:rowOrder="197" diffgr:hasChanges="inserted">
+      <M_idx>197</M_idx>
+      <H_idx>24</H_idx>
+      <M_id>5</M_id>
+      <Temp>21.1999664</Temp>
+      <Pressure>15.5999832</Pressure>
+      <Flow>1.66000032</Flow>
+      <Humidity>60.7800331</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure199" msdata:rowOrder="198" diffgr:hasChanges="inserted">
+      <M_idx>198</M_idx>
+      <H_idx>24</H_idx>
+      <M_id>6</M_id>
+      <Temp>21.1999664</Temp>
+      <Pressure>15.5999832</Pressure>
+      <Flow>1.66000032</Flow>
+      <Humidity>60.7800331</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure200" msdata:rowOrder="199" diffgr:hasChanges="inserted">
+      <M_idx>199</M_idx>
+      <H_idx>24</H_idx>
+      <M_id>7</M_id>
+      <Temp>21.1999664</Temp>
+      <Pressure>15.5999832</Pressure>
+      <Flow>1.66000032</Flow>
+      <Humidity>60.7800331</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure201" msdata:rowOrder="200" diffgr:hasChanges="inserted">
+      <M_idx>200</M_idx>
+      <H_idx>25</H_idx>
+      <M_id>0</M_id>
+      <Temp>21.3999672</Temp>
+      <Pressure>15.6999836</Pressure>
+      <Flow>1.67000031</Flow>
+      <Humidity>60.29003</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure202" msdata:rowOrder="201" diffgr:hasChanges="inserted">
+      <M_idx>201</M_idx>
+      <H_idx>25</H_idx>
+      <M_id>1</M_id>
+      <Temp>21.3999672</Temp>
+      <Pressure>15.6999836</Pressure>
+      <Flow>1.67000031</Flow>
+      <Humidity>60.29003</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure203" msdata:rowOrder="202" diffgr:hasChanges="inserted">
+      <M_idx>202</M_idx>
+      <H_idx>25</H_idx>
+      <M_id>2</M_id>
+      <Temp>21.3999672</Temp>
+      <Pressure>15.6999836</Pressure>
+      <Flow>1.67000031</Flow>
+      <Humidity>60.29003</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure204" msdata:rowOrder="203" diffgr:hasChanges="inserted">
+      <M_idx>203</M_idx>
+      <H_idx>25</H_idx>
+      <M_id>3</M_id>
+      <Temp>21.3999672</Temp>
+      <Pressure>15.6999836</Pressure>
+      <Flow>1.67000031</Flow>
+      <Humidity>60.29003</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure205" msdata:rowOrder="204" diffgr:hasChanges="inserted">
+      <M_idx>204</M_idx>
+      <H_idx>25</H_idx>
+      <M_id>4</M_id>
+      <Temp>21.3999672</Temp>
+      <Pressure>15.6999836</Pressure>
+      <Flow>1.67000031</Flow>
+      <Humidity>60.29003</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure206" msdata:rowOrder="205" diffgr:hasChanges="inserted">
+      <M_idx>205</M_idx>
+      <H_idx>25</H_idx>
+      <M_id>5</M_id>
+      <Temp>21.3999672</Temp>
+      <Pressure>15.6999836</Pressure>
+      <Flow>1.67000031</Flow>
+      <Humidity>60.29003</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure207" msdata:rowOrder="206" diffgr:hasChanges="inserted">
+      <M_idx>206</M_idx>
+      <H_idx>25</H_idx>
+      <M_id>6</M_id>
+      <Temp>21.3999672</Temp>
+      <Pressure>15.6999836</Pressure>
+      <Flow>1.67000031</Flow>
+      <Humidity>60.29003</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure208" msdata:rowOrder="207" diffgr:hasChanges="inserted">
+      <M_idx>207</M_idx>
+      <H_idx>25</H_idx>
+      <M_id>7</M_id>
+      <Temp>21.3999672</Temp>
+      <Pressure>15.6999836</Pressure>
+      <Flow>1.67000031</Flow>
+      <Humidity>60.29003</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure209" msdata:rowOrder="208" diffgr:hasChanges="inserted">
+      <M_idx>208</M_idx>
+      <H_idx>26</H_idx>
+      <M_id>0</M_id>
+      <Temp>21.599968</Temp>
+      <Pressure>15.799984</Pressure>
+      <Flow>1.68000031</Flow>
+      <Humidity>59.80003</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure210" msdata:rowOrder="209" diffgr:hasChanges="inserted">
+      <M_idx>209</M_idx>
+      <H_idx>26</H_idx>
+      <M_id>1</M_id>
+      <Temp>21.599968</Temp>
+      <Pressure>15.799984</Pressure>
+      <Flow>1.68000031</Flow>
+      <Humidity>59.80003</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure211" msdata:rowOrder="210" diffgr:hasChanges="inserted">
+      <M_idx>210</M_idx>
+      <H_idx>26</H_idx>
+      <M_id>2</M_id>
+      <Temp>21.599968</Temp>
+      <Pressure>15.799984</Pressure>
+      <Flow>1.68000031</Flow>
+      <Humidity>59.80003</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure212" msdata:rowOrder="211" diffgr:hasChanges="inserted">
+      <M_idx>211</M_idx>
+      <H_idx>26</H_idx>
+      <M_id>3</M_id>
+      <Temp>21.599968</Temp>
+      <Pressure>15.799984</Pressure>
+      <Flow>1.68000031</Flow>
+      <Humidity>59.80003</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure213" msdata:rowOrder="212" diffgr:hasChanges="inserted">
+      <M_idx>212</M_idx>
+      <H_idx>26</H_idx>
+      <M_id>4</M_id>
+      <Temp>21.599968</Temp>
+      <Pressure>15.799984</Pressure>
+      <Flow>1.68000031</Flow>
+      <Humidity>59.80003</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure214" msdata:rowOrder="213" diffgr:hasChanges="inserted">
+      <M_idx>213</M_idx>
+      <H_idx>26</H_idx>
+      <M_id>5</M_id>
+      <Temp>21.599968</Temp>
+      <Pressure>15.799984</Pressure>
+      <Flow>1.68000031</Flow>
+      <Humidity>59.80003</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure215" msdata:rowOrder="214" diffgr:hasChanges="inserted">
+      <M_idx>214</M_idx>
+      <H_idx>26</H_idx>
+      <M_id>6</M_id>
+      <Temp>21.599968</Temp>
+      <Pressure>15.799984</Pressure>
+      <Flow>1.68000031</Flow>
+      <Humidity>59.80003</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure216" msdata:rowOrder="215" diffgr:hasChanges="inserted">
+      <M_idx>215</M_idx>
+      <H_idx>26</H_idx>
+      <M_id>7</M_id>
+      <Temp>21.599968</Temp>
+      <Pressure>15.799984</Pressure>
+      <Flow>1.68000031</Flow>
+      <Humidity>59.80003</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure217" msdata:rowOrder="216" diffgr:hasChanges="inserted">
+      <M_idx>216</M_idx>
+      <H_idx>27</H_idx>
+      <M_id>0</M_id>
+      <Temp>21.7999687</Temp>
+      <Pressure>15.8999844</Pressure>
+      <Flow>1.6900003</Flow>
+      <Humidity>59.3100281</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure218" msdata:rowOrder="217" diffgr:hasChanges="inserted">
+      <M_idx>217</M_idx>
+      <H_idx>27</H_idx>
+      <M_id>1</M_id>
+      <Temp>21.7999687</Temp>
+      <Pressure>15.8999844</Pressure>
+      <Flow>1.6900003</Flow>
+      <Humidity>59.3100281</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure219" msdata:rowOrder="218" diffgr:hasChanges="inserted">
+      <M_idx>218</M_idx>
+      <H_idx>27</H_idx>
+      <M_id>2</M_id>
+      <Temp>21.7999687</Temp>
+      <Pressure>15.8999844</Pressure>
+      <Flow>1.6900003</Flow>
+      <Humidity>59.3100281</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure220" msdata:rowOrder="219" diffgr:hasChanges="inserted">
+      <M_idx>219</M_idx>
+      <H_idx>27</H_idx>
+      <M_id>3</M_id>
+      <Temp>21.7999687</Temp>
+      <Pressure>15.8999844</Pressure>
+      <Flow>1.6900003</Flow>
+      <Humidity>59.3100281</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure221" msdata:rowOrder="220" diffgr:hasChanges="inserted">
+      <M_idx>220</M_idx>
+      <H_idx>27</H_idx>
+      <M_id>4</M_id>
+      <Temp>21.7999687</Temp>
+      <Pressure>15.8999844</Pressure>
+      <Flow>1.6900003</Flow>
+      <Humidity>59.3100281</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure222" msdata:rowOrder="221" diffgr:hasChanges="inserted">
+      <M_idx>221</M_idx>
+      <H_idx>27</H_idx>
+      <M_id>5</M_id>
+      <Temp>21.7999687</Temp>
+      <Pressure>15.8999844</Pressure>
+      <Flow>1.6900003</Flow>
+      <Humidity>59.3100281</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure223" msdata:rowOrder="222" diffgr:hasChanges="inserted">
+      <M_idx>222</M_idx>
+      <H_idx>27</H_idx>
+      <M_id>6</M_id>
+      <Temp>21.7999687</Temp>
+      <Pressure>15.8999844</Pressure>
+      <Flow>1.6900003</Flow>
+      <Humidity>59.3100281</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure224" msdata:rowOrder="223" diffgr:hasChanges="inserted">
+      <M_idx>223</M_idx>
+      <H_idx>27</H_idx>
+      <M_id>7</M_id>
+      <Temp>21.7999687</Temp>
+      <Pressure>15.8999844</Pressure>
+      <Flow>1.6900003</Flow>
+      <Humidity>59.3100281</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure225" msdata:rowOrder="224" diffgr:hasChanges="inserted">
+      <M_idx>224</M_idx>
+      <H_idx>28</H_idx>
+      <M_id>0</M_id>
+      <Temp>21.99997</Temp>
+      <Pressure>15.9999847</Pressure>
+      <Flow>1.70000029</Flow>
+      <Humidity>58.8200264</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure226" msdata:rowOrder="225" diffgr:hasChanges="inserted">
+      <M_idx>225</M_idx>
+      <H_idx>28</H_idx>
+      <M_id>1</M_id>
+      <Temp>21.99997</Temp>
+      <Pressure>15.9999847</Pressure>
+      <Flow>1.70000029</Flow>
+      <Humidity>58.8200264</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure227" msdata:rowOrder="226" diffgr:hasChanges="inserted">
+      <M_idx>226</M_idx>
+      <H_idx>28</H_idx>
+      <M_id>2</M_id>
+      <Temp>21.99997</Temp>
+      <Pressure>15.9999847</Pressure>
+      <Flow>1.70000029</Flow>
+      <Humidity>58.8200264</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure228" msdata:rowOrder="227" diffgr:hasChanges="inserted">
+      <M_idx>227</M_idx>
+      <H_idx>28</H_idx>
+      <M_id>3</M_id>
+      <Temp>21.99997</Temp>
+      <Pressure>15.9999847</Pressure>
+      <Flow>1.70000029</Flow>
+      <Humidity>58.8200264</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure229" msdata:rowOrder="228" diffgr:hasChanges="inserted">
+      <M_idx>228</M_idx>
+      <H_idx>28</H_idx>
+      <M_id>4</M_id>
+      <Temp>21.99997</Temp>
+      <Pressure>15.9999847</Pressure>
+      <Flow>1.70000029</Flow>
+      <Humidity>58.8200264</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure230" msdata:rowOrder="229" diffgr:hasChanges="inserted">
+      <M_idx>229</M_idx>
+      <H_idx>28</H_idx>
+      <M_id>5</M_id>
+      <Temp>21.99997</Temp>
+      <Pressure>15.9999847</Pressure>
+      <Flow>1.70000029</Flow>
+      <Humidity>58.8200264</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure231" msdata:rowOrder="230" diffgr:hasChanges="inserted">
+      <M_idx>230</M_idx>
+      <H_idx>28</H_idx>
+      <M_id>6</M_id>
+      <Temp>21.99997</Temp>
+      <Pressure>15.9999847</Pressure>
+      <Flow>1.70000029</Flow>
+      <Humidity>58.8200264</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure232" msdata:rowOrder="231" diffgr:hasChanges="inserted">
+      <M_idx>231</M_idx>
+      <H_idx>28</H_idx>
+      <M_id>7</M_id>
+      <Temp>21.99997</Temp>
+      <Pressure>15.9999847</Pressure>
+      <Flow>1.70000029</Flow>
+      <Humidity>58.8200264</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure233" msdata:rowOrder="232" diffgr:hasChanges="inserted">
+      <M_idx>232</M_idx>
+      <H_idx>29</H_idx>
+      <M_id>0</M_id>
+      <Temp>22.19997</Temp>
+      <Pressure>16.0999851</Pressure>
+      <Flow>1.71000028</Flow>
+      <Humidity>58.3300247</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure234" msdata:rowOrder="233" diffgr:hasChanges="inserted">
+      <M_idx>233</M_idx>
+      <H_idx>29</H_idx>
+      <M_id>1</M_id>
+      <Temp>22.19997</Temp>
+      <Pressure>16.0999851</Pressure>
+      <Flow>1.71000028</Flow>
+      <Humidity>58.3300247</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure235" msdata:rowOrder="234" diffgr:hasChanges="inserted">
+      <M_idx>234</M_idx>
+      <H_idx>29</H_idx>
+      <M_id>2</M_id>
+      <Temp>22.19997</Temp>
+      <Pressure>16.0999851</Pressure>
+      <Flow>1.71000028</Flow>
+      <Humidity>58.3300247</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure236" msdata:rowOrder="235" diffgr:hasChanges="inserted">
+      <M_idx>235</M_idx>
+      <H_idx>29</H_idx>
+      <M_id>3</M_id>
+      <Temp>22.19997</Temp>
+      <Pressure>16.0999851</Pressure>
+      <Flow>1.71000028</Flow>
+      <Humidity>58.3300247</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure237" msdata:rowOrder="236" diffgr:hasChanges="inserted">
+      <M_idx>236</M_idx>
+      <H_idx>29</H_idx>
+      <M_id>4</M_id>
+      <Temp>22.19997</Temp>
+      <Pressure>16.0999851</Pressure>
+      <Flow>1.71000028</Flow>
+      <Humidity>58.3300247</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure238" msdata:rowOrder="237" diffgr:hasChanges="inserted">
+      <M_idx>237</M_idx>
+      <H_idx>29</H_idx>
+      <M_id>5</M_id>
+      <Temp>22.19997</Temp>
+      <Pressure>16.0999851</Pressure>
+      <Flow>1.71000028</Flow>
+      <Humidity>58.3300247</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure239" msdata:rowOrder="238" diffgr:hasChanges="inserted">
+      <M_idx>238</M_idx>
+      <H_idx>29</H_idx>
+      <M_id>6</M_id>
+      <Temp>22.19997</Temp>
+      <Pressure>16.0999851</Pressure>
+      <Flow>1.71000028</Flow>
+      <Humidity>58.3300247</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure240" msdata:rowOrder="239" diffgr:hasChanges="inserted">
+      <M_idx>239</M_idx>
+      <H_idx>29</H_idx>
+      <M_id>7</M_id>
+      <Temp>22.19997</Temp>
+      <Pressure>16.0999851</Pressure>
+      <Flow>1.71000028</Flow>
+      <Humidity>58.3300247</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure241" msdata:rowOrder="240" diffgr:hasChanges="inserted">
+      <M_idx>240</M_idx>
+      <H_idx>30</H_idx>
+      <M_id>0</M_id>
+      <Temp>22.399971</Temp>
+      <Pressure>16.1999855</Pressure>
+      <Flow>1.72000027</Flow>
+      <Humidity>57.840023</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure242" msdata:rowOrder="241" diffgr:hasChanges="inserted">
+      <M_idx>241</M_idx>
+      <H_idx>30</H_idx>
+      <M_id>1</M_id>
+      <Temp>22.399971</Temp>
+      <Pressure>16.1999855</Pressure>
+      <Flow>1.72000027</Flow>
+      <Humidity>57.840023</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure243" msdata:rowOrder="242" diffgr:hasChanges="inserted">
+      <M_idx>242</M_idx>
+      <H_idx>30</H_idx>
+      <M_id>2</M_id>
+      <Temp>22.399971</Temp>
+      <Pressure>16.1999855</Pressure>
+      <Flow>1.72000027</Flow>
+      <Humidity>57.840023</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure244" msdata:rowOrder="243" diffgr:hasChanges="inserted">
+      <M_idx>243</M_idx>
+      <H_idx>30</H_idx>
+      <M_id>3</M_id>
+      <Temp>22.399971</Temp>
+      <Pressure>16.1999855</Pressure>
+      <Flow>1.72000027</Flow>
+      <Humidity>57.840023</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure245" msdata:rowOrder="244" diffgr:hasChanges="inserted">
+      <M_idx>244</M_idx>
+      <H_idx>30</H_idx>
+      <M_id>4</M_id>
+      <Temp>22.399971</Temp>
+      <Pressure>16.1999855</Pressure>
+      <Flow>1.72000027</Flow>
+      <Humidity>57.840023</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure246" msdata:rowOrder="245" diffgr:hasChanges="inserted">
+      <M_idx>245</M_idx>
+      <H_idx>30</H_idx>
+      <M_id>5</M_id>
+      <Temp>22.399971</Temp>
+      <Pressure>16.1999855</Pressure>
+      <Flow>1.72000027</Flow>
+      <Humidity>57.840023</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure247" msdata:rowOrder="246" diffgr:hasChanges="inserted">
+      <M_idx>246</M_idx>
+      <H_idx>30</H_idx>
+      <M_id>6</M_id>
+      <Temp>22.399971</Temp>
+      <Pressure>16.1999855</Pressure>
+      <Flow>1.72000027</Flow>
+      <Humidity>57.840023</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure248" msdata:rowOrder="247" diffgr:hasChanges="inserted">
+      <M_idx>247</M_idx>
+      <H_idx>30</H_idx>
+      <M_id>7</M_id>
+      <Temp>22.399971</Temp>
+      <Pressure>16.1999855</Pressure>
+      <Flow>1.72000027</Flow>
+      <Humidity>57.840023</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure249" msdata:rowOrder="248" diffgr:hasChanges="inserted">
+      <M_idx>248</M_idx>
+      <H_idx>31</H_idx>
+      <M_id>0</M_id>
+      <Temp>22.5999718</Temp>
+      <Pressure>16.2999859</Pressure>
+      <Flow>1.73000026</Flow>
+      <Humidity>57.35002</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure250" msdata:rowOrder="249" diffgr:hasChanges="inserted">
+      <M_idx>249</M_idx>
+      <H_idx>31</H_idx>
+      <M_id>1</M_id>
+      <Temp>22.5999718</Temp>
+      <Pressure>16.2999859</Pressure>
+      <Flow>1.73000026</Flow>
+      <Humidity>57.35002</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure251" msdata:rowOrder="250" diffgr:hasChanges="inserted">
+      <M_idx>250</M_idx>
+      <H_idx>31</H_idx>
+      <M_id>2</M_id>
+      <Temp>22.5999718</Temp>
+      <Pressure>16.2999859</Pressure>
+      <Flow>1.73000026</Flow>
+      <Humidity>57.35002</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure252" msdata:rowOrder="251" diffgr:hasChanges="inserted">
+      <M_idx>251</M_idx>
+      <H_idx>31</H_idx>
+      <M_id>3</M_id>
+      <Temp>22.5999718</Temp>
+      <Pressure>16.2999859</Pressure>
+      <Flow>1.73000026</Flow>
+      <Humidity>57.35002</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure253" msdata:rowOrder="252" diffgr:hasChanges="inserted">
+      <M_idx>252</M_idx>
+      <H_idx>31</H_idx>
+      <M_id>4</M_id>
+      <Temp>22.5999718</Temp>
+      <Pressure>16.2999859</Pressure>
+      <Flow>1.73000026</Flow>
+      <Humidity>57.35002</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure254" msdata:rowOrder="253" diffgr:hasChanges="inserted">
+      <M_idx>253</M_idx>
+      <H_idx>31</H_idx>
+      <M_id>5</M_id>
+      <Temp>22.5999718</Temp>
+      <Pressure>16.2999859</Pressure>
+      <Flow>1.73000026</Flow>
+      <Humidity>57.35002</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure255" msdata:rowOrder="254" diffgr:hasChanges="inserted">
+      <M_idx>254</M_idx>
+      <H_idx>31</H_idx>
+      <M_id>6</M_id>
+      <Temp>22.5999718</Temp>
+      <Pressure>16.2999859</Pressure>
+      <Flow>1.73000026</Flow>
+      <Humidity>57.35002</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure256" msdata:rowOrder="255" diffgr:hasChanges="inserted">
+      <M_idx>255</M_idx>
+      <H_idx>31</H_idx>
+      <M_id>7</M_id>
+      <Temp>22.5999718</Temp>
+      <Pressure>16.2999859</Pressure>
+      <Flow>1.73000026</Flow>
+      <Humidity>57.35002</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure257" msdata:rowOrder="256" diffgr:hasChanges="inserted">
+      <M_idx>256</M_idx>
+      <H_idx>32</H_idx>
+      <M_id>0</M_id>
+      <Temp>22.7999725</Temp>
+      <Pressure>16.3999863</Pressure>
+      <Flow>1.74000025</Flow>
+      <Humidity>56.86002</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure258" msdata:rowOrder="257" diffgr:hasChanges="inserted">
+      <M_idx>257</M_idx>
+      <H_idx>32</H_idx>
+      <M_id>1</M_id>
+      <Temp>22.7999725</Temp>
+      <Pressure>16.3999863</Pressure>
+      <Flow>1.74000025</Flow>
+      <Humidity>56.86002</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure259" msdata:rowOrder="258" diffgr:hasChanges="inserted">
+      <M_idx>258</M_idx>
+      <H_idx>32</H_idx>
+      <M_id>2</M_id>
+      <Temp>22.7999725</Temp>
+      <Pressure>16.3999863</Pressure>
+      <Flow>1.74000025</Flow>
+      <Humidity>56.86002</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure260" msdata:rowOrder="259" diffgr:hasChanges="inserted">
+      <M_idx>259</M_idx>
+      <H_idx>32</H_idx>
+      <M_id>3</M_id>
+      <Temp>22.7999725</Temp>
+      <Pressure>16.3999863</Pressure>
+      <Flow>1.74000025</Flow>
+      <Humidity>56.86002</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure261" msdata:rowOrder="260" diffgr:hasChanges="inserted">
+      <M_idx>260</M_idx>
+      <H_idx>32</H_idx>
+      <M_id>4</M_id>
+      <Temp>22.7999725</Temp>
+      <Pressure>16.3999863</Pressure>
+      <Flow>1.74000025</Flow>
+      <Humidity>56.86002</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure262" msdata:rowOrder="261" diffgr:hasChanges="inserted">
+      <M_idx>261</M_idx>
+      <H_idx>32</H_idx>
+      <M_id>5</M_id>
+      <Temp>22.7999725</Temp>
+      <Pressure>16.3999863</Pressure>
+      <Flow>1.74000025</Flow>
+      <Humidity>56.86002</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure263" msdata:rowOrder="262" diffgr:hasChanges="inserted">
+      <M_idx>262</M_idx>
+      <H_idx>32</H_idx>
+      <M_id>6</M_id>
+      <Temp>22.7999725</Temp>
+      <Pressure>16.3999863</Pressure>
+      <Flow>1.74000025</Flow>
+      <Humidity>56.86002</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure264" msdata:rowOrder="263" diffgr:hasChanges="inserted">
+      <M_idx>263</M_idx>
+      <H_idx>32</H_idx>
+      <M_id>7</M_id>
+      <Temp>22.7999725</Temp>
+      <Pressure>16.3999863</Pressure>
+      <Flow>1.74000025</Flow>
+      <Humidity>56.86002</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure265" msdata:rowOrder="264" diffgr:hasChanges="inserted">
+      <M_idx>264</M_idx>
+      <H_idx>33</H_idx>
+      <M_id>0</M_id>
+      <Temp>22.9999733</Temp>
+      <Pressure>16.4999866</Pressure>
+      <Flow>1.75000024</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure266" msdata:rowOrder="265" diffgr:hasChanges="inserted">
+      <M_idx>265</M_idx>
+      <H_idx>33</H_idx>
+      <M_id>1</M_id>
+      <Temp>22.9999733</Temp>
+      <Pressure>16.4999866</Pressure>
+      <Flow>1.75000024</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure267" msdata:rowOrder="266" diffgr:hasChanges="inserted">
+      <M_idx>266</M_idx>
+      <H_idx>33</H_idx>
+      <M_id>2</M_id>
+      <Temp>22.9999733</Temp>
+      <Pressure>16.4999866</Pressure>
+      <Flow>1.75000024</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure268" msdata:rowOrder="267" diffgr:hasChanges="inserted">
+      <M_idx>267</M_idx>
+      <H_idx>33</H_idx>
+      <M_id>3</M_id>
+      <Temp>22.9999733</Temp>
+      <Pressure>16.4999866</Pressure>
+      <Flow>1.75000024</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure269" msdata:rowOrder="268" diffgr:hasChanges="inserted">
+      <M_idx>268</M_idx>
+      <H_idx>33</H_idx>
+      <M_id>4</M_id>
+      <Temp>22.9999733</Temp>
+      <Pressure>16.4999866</Pressure>
+      <Flow>1.75000024</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure270" msdata:rowOrder="269" diffgr:hasChanges="inserted">
+      <M_idx>269</M_idx>
+      <H_idx>33</H_idx>
+      <M_id>5</M_id>
+      <Temp>22.9999733</Temp>
+      <Pressure>16.4999866</Pressure>
+      <Flow>1.75000024</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure271" msdata:rowOrder="270" diffgr:hasChanges="inserted">
+      <M_idx>270</M_idx>
+      <H_idx>33</H_idx>
+      <M_id>6</M_id>
+      <Temp>22.9999733</Temp>
+      <Pressure>16.4999866</Pressure>
+      <Flow>1.75000024</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure272" msdata:rowOrder="271" diffgr:hasChanges="inserted">
+      <M_idx>271</M_idx>
+      <H_idx>33</H_idx>
+      <M_id>7</M_id>
+      <Temp>22.9999733</Temp>
+      <Pressure>16.4999866</Pressure>
+      <Flow>1.75000024</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure273" msdata:rowOrder="272" diffgr:hasChanges="inserted">
+      <M_idx>272</M_idx>
+      <H_idx>34</H_idx>
+      <M_id>0</M_id>
+      <Temp>23.1999741</Temp>
+      <Pressure>16.599987</Pressure>
+      <Flow>1.76000023</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure274" msdata:rowOrder="273" diffgr:hasChanges="inserted">
+      <M_idx>273</M_idx>
+      <H_idx>34</H_idx>
+      <M_id>1</M_id>
+      <Temp>23.1999741</Temp>
+      <Pressure>16.599987</Pressure>
+      <Flow>1.76000023</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure275" msdata:rowOrder="274" diffgr:hasChanges="inserted">
+      <M_idx>274</M_idx>
+      <H_idx>34</H_idx>
+      <M_id>2</M_id>
+      <Temp>23.1999741</Temp>
+      <Pressure>16.599987</Pressure>
+      <Flow>1.76000023</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure276" msdata:rowOrder="275" diffgr:hasChanges="inserted">
+      <M_idx>275</M_idx>
+      <H_idx>34</H_idx>
+      <M_id>3</M_id>
+      <Temp>23.1999741</Temp>
+      <Pressure>16.599987</Pressure>
+      <Flow>1.76000023</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure277" msdata:rowOrder="276" diffgr:hasChanges="inserted">
+      <M_idx>276</M_idx>
+      <H_idx>34</H_idx>
+      <M_id>4</M_id>
+      <Temp>23.1999741</Temp>
+      <Pressure>16.599987</Pressure>
+      <Flow>1.76000023</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure278" msdata:rowOrder="277" diffgr:hasChanges="inserted">
+      <M_idx>277</M_idx>
+      <H_idx>34</H_idx>
+      <M_id>5</M_id>
+      <Temp>23.1999741</Temp>
+      <Pressure>16.599987</Pressure>
+      <Flow>1.76000023</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure279" msdata:rowOrder="278" diffgr:hasChanges="inserted">
+      <M_idx>278</M_idx>
+      <H_idx>34</H_idx>
+      <M_id>6</M_id>
+      <Temp>23.1999741</Temp>
+      <Pressure>16.599987</Pressure>
+      <Flow>1.76000023</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure280" msdata:rowOrder="279" diffgr:hasChanges="inserted">
+      <M_idx>279</M_idx>
+      <H_idx>34</H_idx>
+      <M_id>7</M_id>
+      <Temp>23.1999741</Temp>
+      <Pressure>16.599987</Pressure>
+      <Flow>1.76000023</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure281" msdata:rowOrder="280" diffgr:hasChanges="inserted">
+      <M_idx>280</M_idx>
+      <H_idx>35</H_idx>
+      <M_id>0</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>16.6999874</Pressure>
+      <Flow>1.77000022</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure282" msdata:rowOrder="281" diffgr:hasChanges="inserted">
+      <M_idx>281</M_idx>
+      <H_idx>35</H_idx>
+      <M_id>1</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>16.6999874</Pressure>
+      <Flow>1.77000022</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure283" msdata:rowOrder="282" diffgr:hasChanges="inserted">
+      <M_idx>282</M_idx>
+      <H_idx>35</H_idx>
+      <M_id>2</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>16.6999874</Pressure>
+      <Flow>1.77000022</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure284" msdata:rowOrder="283" diffgr:hasChanges="inserted">
+      <M_idx>283</M_idx>
+      <H_idx>35</H_idx>
+      <M_id>3</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>16.6999874</Pressure>
+      <Flow>1.77000022</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure285" msdata:rowOrder="284" diffgr:hasChanges="inserted">
+      <M_idx>284</M_idx>
+      <H_idx>35</H_idx>
+      <M_id>4</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>16.6999874</Pressure>
+      <Flow>1.77000022</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure286" msdata:rowOrder="285" diffgr:hasChanges="inserted">
+      <M_idx>285</M_idx>
+      <H_idx>35</H_idx>
+      <M_id>5</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>16.6999874</Pressure>
+      <Flow>1.77000022</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure287" msdata:rowOrder="286" diffgr:hasChanges="inserted">
+      <M_idx>286</M_idx>
+      <H_idx>35</H_idx>
+      <M_id>6</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>16.6999874</Pressure>
+      <Flow>1.77000022</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure288" msdata:rowOrder="287" diffgr:hasChanges="inserted">
+      <M_idx>287</M_idx>
+      <H_idx>35</H_idx>
+      <M_id>7</M_id>
+      <Temp>23.3999748</Temp>
+      <Pressure>16.6999874</Pressure>
+      <Flow>1.77000022</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure289" msdata:rowOrder="288" diffgr:hasChanges="inserted">
+      <M_idx>288</M_idx>
+      <H_idx>36</H_idx>
+      <M_id>0</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>16.7999878</Pressure>
+      <Flow>1.78000021</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure290" msdata:rowOrder="289" diffgr:hasChanges="inserted">
+      <M_idx>289</M_idx>
+      <H_idx>36</H_idx>
+      <M_id>1</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>16.7999878</Pressure>
+      <Flow>1.78000021</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure291" msdata:rowOrder="290" diffgr:hasChanges="inserted">
+      <M_idx>290</M_idx>
+      <H_idx>36</H_idx>
+      <M_id>2</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>16.7999878</Pressure>
+      <Flow>1.78000021</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure292" msdata:rowOrder="291" diffgr:hasChanges="inserted">
+      <M_idx>291</M_idx>
+      <H_idx>36</H_idx>
+      <M_id>3</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>16.7999878</Pressure>
+      <Flow>1.78000021</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure293" msdata:rowOrder="292" diffgr:hasChanges="inserted">
+      <M_idx>292</M_idx>
+      <H_idx>36</H_idx>
+      <M_id>4</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>16.7999878</Pressure>
+      <Flow>1.78000021</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure294" msdata:rowOrder="293" diffgr:hasChanges="inserted">
+      <M_idx>293</M_idx>
+      <H_idx>36</H_idx>
+      <M_id>5</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>16.7999878</Pressure>
+      <Flow>1.78000021</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure295" msdata:rowOrder="294" diffgr:hasChanges="inserted">
+      <M_idx>294</M_idx>
+      <H_idx>36</H_idx>
+      <M_id>6</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>16.7999878</Pressure>
+      <Flow>1.78000021</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure296" msdata:rowOrder="295" diffgr:hasChanges="inserted">
+      <M_idx>295</M_idx>
+      <H_idx>36</H_idx>
+      <M_id>7</M_id>
+      <Temp>23.5999756</Temp>
+      <Pressure>16.7999878</Pressure>
+      <Flow>1.78000021</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure297" msdata:rowOrder="296" diffgr:hasChanges="inserted">
+      <M_idx>296</M_idx>
+      <H_idx>37</H_idx>
+      <M_id>0</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>16.8999882</Pressure>
+      <Flow>1.7900002</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure298" msdata:rowOrder="297" diffgr:hasChanges="inserted">
+      <M_idx>297</M_idx>
+      <H_idx>37</H_idx>
+      <M_id>1</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>16.8999882</Pressure>
+      <Flow>1.7900002</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure299" msdata:rowOrder="298" diffgr:hasChanges="inserted">
+      <M_idx>298</M_idx>
+      <H_idx>37</H_idx>
+      <M_id>2</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>16.8999882</Pressure>
+      <Flow>1.7900002</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure300" msdata:rowOrder="299" diffgr:hasChanges="inserted">
+      <M_idx>299</M_idx>
+      <H_idx>37</H_idx>
+      <M_id>3</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>16.8999882</Pressure>
+      <Flow>1.7900002</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure301" msdata:rowOrder="300" diffgr:hasChanges="inserted">
+      <M_idx>300</M_idx>
+      <H_idx>37</H_idx>
+      <M_id>4</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>16.8999882</Pressure>
+      <Flow>1.7900002</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure302" msdata:rowOrder="301" diffgr:hasChanges="inserted">
+      <M_idx>301</M_idx>
+      <H_idx>37</H_idx>
+      <M_id>5</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>16.8999882</Pressure>
+      <Flow>1.7900002</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure303" msdata:rowOrder="302" diffgr:hasChanges="inserted">
+      <M_idx>302</M_idx>
+      <H_idx>37</H_idx>
+      <M_id>6</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>16.8999882</Pressure>
+      <Flow>1.7900002</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure304" msdata:rowOrder="303" diffgr:hasChanges="inserted">
+      <M_idx>303</M_idx>
+      <H_idx>37</H_idx>
+      <M_id>7</M_id>
+      <Temp>23.7999763</Temp>
+      <Pressure>16.8999882</Pressure>
+      <Flow>1.7900002</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure305" msdata:rowOrder="304" diffgr:hasChanges="inserted">
+      <M_idx>304</M_idx>
+      <H_idx>38</H_idx>
+      <M_id>0</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>16.9999886</Pressure>
+      <Flow>1.80000019</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure306" msdata:rowOrder="305" diffgr:hasChanges="inserted">
+      <M_idx>305</M_idx>
+      <H_idx>38</H_idx>
+      <M_id>1</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>16.9999886</Pressure>
+      <Flow>1.80000019</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure307" msdata:rowOrder="306" diffgr:hasChanges="inserted">
+      <M_idx>306</M_idx>
+      <H_idx>38</H_idx>
+      <M_id>2</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>16.9999886</Pressure>
+      <Flow>1.80000019</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure308" msdata:rowOrder="307" diffgr:hasChanges="inserted">
+      <M_idx>307</M_idx>
+      <H_idx>38</H_idx>
+      <M_id>3</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>16.9999886</Pressure>
+      <Flow>1.80000019</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure309" msdata:rowOrder="308" diffgr:hasChanges="inserted">
+      <M_idx>308</M_idx>
+      <H_idx>38</H_idx>
+      <M_id>4</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>16.9999886</Pressure>
+      <Flow>1.80000019</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure310" msdata:rowOrder="309" diffgr:hasChanges="inserted">
+      <M_idx>309</M_idx>
+      <H_idx>38</H_idx>
+      <M_id>5</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>16.9999886</Pressure>
+      <Flow>1.80000019</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure311" msdata:rowOrder="310" diffgr:hasChanges="inserted">
+      <M_idx>310</M_idx>
+      <H_idx>38</H_idx>
+      <M_id>6</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>16.9999886</Pressure>
+      <Flow>1.80000019</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure312" msdata:rowOrder="311" diffgr:hasChanges="inserted">
+      <M_idx>311</M_idx>
+      <H_idx>38</H_idx>
+      <M_id>7</M_id>
+      <Temp>23.9999771</Temp>
+      <Pressure>16.9999886</Pressure>
+      <Flow>1.80000019</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure313" msdata:rowOrder="312" diffgr:hasChanges="inserted">
+      <M_idx>312</M_idx>
+      <H_idx>39</H_idx>
+      <M_id>0</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>17.0999889</Pressure>
+      <Flow>1.81000018</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure314" msdata:rowOrder="313" diffgr:hasChanges="inserted">
+      <M_idx>313</M_idx>
+      <H_idx>39</H_idx>
+      <M_id>1</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>17.0999889</Pressure>
+      <Flow>1.81000018</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure315" msdata:rowOrder="314" diffgr:hasChanges="inserted">
+      <M_idx>314</M_idx>
+      <H_idx>39</H_idx>
+      <M_id>2</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>17.0999889</Pressure>
+      <Flow>1.81000018</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure316" msdata:rowOrder="315" diffgr:hasChanges="inserted">
+      <M_idx>315</M_idx>
+      <H_idx>39</H_idx>
+      <M_id>3</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>17.0999889</Pressure>
+      <Flow>1.81000018</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure317" msdata:rowOrder="316" diffgr:hasChanges="inserted">
+      <M_idx>316</M_idx>
+      <H_idx>39</H_idx>
+      <M_id>4</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>17.0999889</Pressure>
+      <Flow>1.81000018</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure318" msdata:rowOrder="317" diffgr:hasChanges="inserted">
+      <M_idx>317</M_idx>
+      <H_idx>39</H_idx>
+      <M_id>5</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>17.0999889</Pressure>
+      <Flow>1.81000018</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure319" msdata:rowOrder="318" diffgr:hasChanges="inserted">
+      <M_idx>318</M_idx>
+      <H_idx>39</H_idx>
+      <M_id>6</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>17.0999889</Pressure>
+      <Flow>1.81000018</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure320" msdata:rowOrder="319" diffgr:hasChanges="inserted">
+      <M_idx>319</M_idx>
+      <H_idx>39</H_idx>
+      <M_id>7</M_id>
+      <Temp>24.1999779</Temp>
+      <Pressure>17.0999889</Pressure>
+      <Flow>1.81000018</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure321" msdata:rowOrder="320" diffgr:hasChanges="inserted">
+      <M_idx>320</M_idx>
+      <H_idx>40</H_idx>
+      <M_id>0</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>17.19999</Pressure>
+      <Flow>1.82000017</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure322" msdata:rowOrder="321" diffgr:hasChanges="inserted">
+      <M_idx>321</M_idx>
+      <H_idx>40</H_idx>
+      <M_id>1</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>17.19999</Pressure>
+      <Flow>1.82000017</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure323" msdata:rowOrder="322" diffgr:hasChanges="inserted">
+      <M_idx>322</M_idx>
+      <H_idx>40</H_idx>
+      <M_id>2</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>17.19999</Pressure>
+      <Flow>1.82000017</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure324" msdata:rowOrder="323" diffgr:hasChanges="inserted">
+      <M_idx>323</M_idx>
+      <H_idx>40</H_idx>
+      <M_id>3</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>17.19999</Pressure>
+      <Flow>1.82000017</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure325" msdata:rowOrder="324" diffgr:hasChanges="inserted">
+      <M_idx>324</M_idx>
+      <H_idx>40</H_idx>
+      <M_id>4</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>17.19999</Pressure>
+      <Flow>1.82000017</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure326" msdata:rowOrder="325" diffgr:hasChanges="inserted">
+      <M_idx>325</M_idx>
+      <H_idx>40</H_idx>
+      <M_id>5</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>17.19999</Pressure>
+      <Flow>1.82000017</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure327" msdata:rowOrder="326" diffgr:hasChanges="inserted">
+      <M_idx>326</M_idx>
+      <H_idx>40</H_idx>
+      <M_id>6</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>17.19999</Pressure>
+      <Flow>1.82000017</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure328" msdata:rowOrder="327" diffgr:hasChanges="inserted">
+      <M_idx>327</M_idx>
+      <H_idx>40</H_idx>
+      <M_id>7</M_id>
+      <Temp>24.3999786</Temp>
+      <Pressure>17.19999</Pressure>
+      <Flow>1.82000017</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure329" msdata:rowOrder="328" diffgr:hasChanges="inserted">
+      <M_idx>328</M_idx>
+      <H_idx>41</H_idx>
+      <M_id>0</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>17.29999</Pressure>
+      <Flow>1.83000016</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure330" msdata:rowOrder="329" diffgr:hasChanges="inserted">
+      <M_idx>329</M_idx>
+      <H_idx>41</H_idx>
+      <M_id>1</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>17.29999</Pressure>
+      <Flow>1.83000016</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure331" msdata:rowOrder="330" diffgr:hasChanges="inserted">
+      <M_idx>330</M_idx>
+      <H_idx>41</H_idx>
+      <M_id>2</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>17.29999</Pressure>
+      <Flow>1.83000016</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure332" msdata:rowOrder="331" diffgr:hasChanges="inserted">
+      <M_idx>331</M_idx>
+      <H_idx>41</H_idx>
+      <M_id>3</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>17.29999</Pressure>
+      <Flow>1.83000016</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure333" msdata:rowOrder="332" diffgr:hasChanges="inserted">
+      <M_idx>332</M_idx>
+      <H_idx>41</H_idx>
+      <M_id>4</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>17.29999</Pressure>
+      <Flow>1.83000016</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure334" msdata:rowOrder="333" diffgr:hasChanges="inserted">
+      <M_idx>333</M_idx>
+      <H_idx>41</H_idx>
+      <M_id>5</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>17.29999</Pressure>
+      <Flow>1.83000016</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure335" msdata:rowOrder="334" diffgr:hasChanges="inserted">
+      <M_idx>334</M_idx>
+      <H_idx>41</H_idx>
+      <M_id>6</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>17.29999</Pressure>
+      <Flow>1.83000016</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure336" msdata:rowOrder="335" diffgr:hasChanges="inserted">
+      <M_idx>335</M_idx>
+      <H_idx>41</H_idx>
+      <M_id>7</M_id>
+      <Temp>24.59998</Temp>
+      <Pressure>17.29999</Pressure>
+      <Flow>1.83000016</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure337" msdata:rowOrder="336" diffgr:hasChanges="inserted">
+      <M_idx>336</M_idx>
+      <H_idx>42</H_idx>
+      <M_id>0</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>17.39999</Pressure>
+      <Flow>1.84000015</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure338" msdata:rowOrder="337" diffgr:hasChanges="inserted">
+      <M_idx>337</M_idx>
+      <H_idx>42</H_idx>
+      <M_id>1</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>17.39999</Pressure>
+      <Flow>1.84000015</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure339" msdata:rowOrder="338" diffgr:hasChanges="inserted">
+      <M_idx>338</M_idx>
+      <H_idx>42</H_idx>
+      <M_id>2</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>17.39999</Pressure>
+      <Flow>1.84000015</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure340" msdata:rowOrder="339" diffgr:hasChanges="inserted">
+      <M_idx>339</M_idx>
+      <H_idx>42</H_idx>
+      <M_id>3</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>17.39999</Pressure>
+      <Flow>1.84000015</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure341" msdata:rowOrder="340" diffgr:hasChanges="inserted">
+      <M_idx>340</M_idx>
+      <H_idx>42</H_idx>
+      <M_id>4</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>17.39999</Pressure>
+      <Flow>1.84000015</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure342" msdata:rowOrder="341" diffgr:hasChanges="inserted">
+      <M_idx>341</M_idx>
+      <H_idx>42</H_idx>
+      <M_id>5</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>17.39999</Pressure>
+      <Flow>1.84000015</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure343" msdata:rowOrder="342" diffgr:hasChanges="inserted">
+      <M_idx>342</M_idx>
+      <H_idx>42</H_idx>
+      <M_id>6</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>17.39999</Pressure>
+      <Flow>1.84000015</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure344" msdata:rowOrder="343" diffgr:hasChanges="inserted">
+      <M_idx>343</M_idx>
+      <H_idx>42</H_idx>
+      <M_id>7</M_id>
+      <Temp>24.79998</Temp>
+      <Pressure>17.39999</Pressure>
+      <Flow>1.84000015</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure345" msdata:rowOrder="344" diffgr:hasChanges="inserted">
+      <M_idx>344</M_idx>
+      <H_idx>43</H_idx>
+      <M_id>0</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>17.49999</Pressure>
+      <Flow>1.85000014</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure346" msdata:rowOrder="345" diffgr:hasChanges="inserted">
+      <M_idx>345</M_idx>
+      <H_idx>43</H_idx>
+      <M_id>1</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>17.49999</Pressure>
+      <Flow>1.85000014</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure347" msdata:rowOrder="346" diffgr:hasChanges="inserted">
+      <M_idx>346</M_idx>
+      <H_idx>43</H_idx>
+      <M_id>2</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>17.49999</Pressure>
+      <Flow>1.85000014</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure348" msdata:rowOrder="347" diffgr:hasChanges="inserted">
+      <M_idx>347</M_idx>
+      <H_idx>43</H_idx>
+      <M_id>3</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>17.49999</Pressure>
+      <Flow>1.85000014</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure349" msdata:rowOrder="348" diffgr:hasChanges="inserted">
+      <M_idx>348</M_idx>
+      <H_idx>43</H_idx>
+      <M_id>4</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>17.49999</Pressure>
+      <Flow>1.85000014</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure350" msdata:rowOrder="349" diffgr:hasChanges="inserted">
+      <M_idx>349</M_idx>
+      <H_idx>43</H_idx>
+      <M_id>5</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>17.49999</Pressure>
+      <Flow>1.85000014</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure351" msdata:rowOrder="350" diffgr:hasChanges="inserted">
+      <M_idx>350</M_idx>
+      <H_idx>43</H_idx>
+      <M_id>6</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>17.49999</Pressure>
+      <Flow>1.85000014</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure352" msdata:rowOrder="351" diffgr:hasChanges="inserted">
+      <M_idx>351</M_idx>
+      <H_idx>43</H_idx>
+      <M_id>7</M_id>
+      <Temp>24.99998</Temp>
+      <Pressure>17.49999</Pressure>
+      <Flow>1.85000014</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure353" msdata:rowOrder="352" diffgr:hasChanges="inserted">
+      <M_idx>352</M_idx>
+      <H_idx>44</H_idx>
+      <M_id>0</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>17.59999</Pressure>
+      <Flow>1.86000013</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure354" msdata:rowOrder="353" diffgr:hasChanges="inserted">
+      <M_idx>353</M_idx>
+      <H_idx>44</H_idx>
+      <M_id>1</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>17.59999</Pressure>
+      <Flow>1.86000013</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure355" msdata:rowOrder="354" diffgr:hasChanges="inserted">
+      <M_idx>354</M_idx>
+      <H_idx>44</H_idx>
+      <M_id>2</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>17.59999</Pressure>
+      <Flow>1.86000013</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure356" msdata:rowOrder="355" diffgr:hasChanges="inserted">
+      <M_idx>355</M_idx>
+      <H_idx>44</H_idx>
+      <M_id>3</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>17.59999</Pressure>
+      <Flow>1.86000013</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure357" msdata:rowOrder="356" diffgr:hasChanges="inserted">
+      <M_idx>356</M_idx>
+      <H_idx>44</H_idx>
+      <M_id>4</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>17.59999</Pressure>
+      <Flow>1.86000013</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure358" msdata:rowOrder="357" diffgr:hasChanges="inserted">
+      <M_idx>357</M_idx>
+      <H_idx>44</H_idx>
+      <M_id>5</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>17.59999</Pressure>
+      <Flow>1.86000013</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure359" msdata:rowOrder="358" diffgr:hasChanges="inserted">
+      <M_idx>358</M_idx>
+      <H_idx>44</H_idx>
+      <M_id>6</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>17.59999</Pressure>
+      <Flow>1.86000013</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure360" msdata:rowOrder="359" diffgr:hasChanges="inserted">
+      <M_idx>359</M_idx>
+      <H_idx>44</H_idx>
+      <M_id>7</M_id>
+      <Temp>25.1999817</Temp>
+      <Pressure>17.59999</Pressure>
+      <Flow>1.86000013</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure361" msdata:rowOrder="360" diffgr:hasChanges="inserted">
+      <M_idx>360</M_idx>
+      <H_idx>45</H_idx>
+      <M_id>0</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>17.6999912</Pressure>
+      <Flow>1.87000012</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure362" msdata:rowOrder="361" diffgr:hasChanges="inserted">
+      <M_idx>361</M_idx>
+      <H_idx>45</H_idx>
+      <M_id>1</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>17.6999912</Pressure>
+      <Flow>1.87000012</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure363" msdata:rowOrder="362" diffgr:hasChanges="inserted">
+      <M_idx>362</M_idx>
+      <H_idx>45</H_idx>
+      <M_id>2</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>17.6999912</Pressure>
+      <Flow>1.87000012</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure364" msdata:rowOrder="363" diffgr:hasChanges="inserted">
+      <M_idx>363</M_idx>
+      <H_idx>45</H_idx>
+      <M_id>3</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>17.6999912</Pressure>
+      <Flow>1.87000012</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure365" msdata:rowOrder="364" diffgr:hasChanges="inserted">
+      <M_idx>364</M_idx>
+      <H_idx>45</H_idx>
+      <M_id>4</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>17.6999912</Pressure>
+      <Flow>1.87000012</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure366" msdata:rowOrder="365" diffgr:hasChanges="inserted">
+      <M_idx>365</M_idx>
+      <H_idx>45</H_idx>
+      <M_id>5</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>17.6999912</Pressure>
+      <Flow>1.87000012</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure367" msdata:rowOrder="366" diffgr:hasChanges="inserted">
+      <M_idx>366</M_idx>
+      <H_idx>45</H_idx>
+      <M_id>6</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>17.6999912</Pressure>
+      <Flow>1.87000012</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure368" msdata:rowOrder="367" diffgr:hasChanges="inserted">
+      <M_idx>367</M_idx>
+      <H_idx>45</H_idx>
+      <M_id>7</M_id>
+      <Temp>25.3999825</Temp>
+      <Pressure>17.6999912</Pressure>
+      <Flow>1.87000012</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure369" msdata:rowOrder="368" diffgr:hasChanges="inserted">
+      <M_idx>368</M_idx>
+      <H_idx>46</H_idx>
+      <M_id>0</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>17.7999916</Pressure>
+      <Flow>1.88000011</Flow>
+      <Humidity>49.9999962</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure370" msdata:rowOrder="369" diffgr:hasChanges="inserted">
+      <M_idx>369</M_idx>
+      <H_idx>46</H_idx>
+      <M_id>1</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>17.7999916</Pressure>
+      <Flow>1.88000011</Flow>
+      <Humidity>49.9999962</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure371" msdata:rowOrder="370" diffgr:hasChanges="inserted">
+      <M_idx>370</M_idx>
+      <H_idx>46</H_idx>
+      <M_id>2</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>17.7999916</Pressure>
+      <Flow>1.88000011</Flow>
+      <Humidity>49.9999962</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure372" msdata:rowOrder="371" diffgr:hasChanges="inserted">
+      <M_idx>371</M_idx>
+      <H_idx>46</H_idx>
+      <M_id>3</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>17.7999916</Pressure>
+      <Flow>1.88000011</Flow>
+      <Humidity>49.9999962</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure373" msdata:rowOrder="372" diffgr:hasChanges="inserted">
+      <M_idx>372</M_idx>
+      <H_idx>46</H_idx>
+      <M_id>4</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>17.7999916</Pressure>
+      <Flow>1.88000011</Flow>
+      <Humidity>49.9999962</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure374" msdata:rowOrder="373" diffgr:hasChanges="inserted">
+      <M_idx>373</M_idx>
+      <H_idx>46</H_idx>
+      <M_id>5</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>17.7999916</Pressure>
+      <Flow>1.88000011</Flow>
+      <Humidity>49.9999962</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure375" msdata:rowOrder="374" diffgr:hasChanges="inserted">
+      <M_idx>374</M_idx>
+      <H_idx>46</H_idx>
+      <M_id>6</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>17.7999916</Pressure>
+      <Flow>1.88000011</Flow>
+      <Humidity>49.9999962</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure376" msdata:rowOrder="375" diffgr:hasChanges="inserted">
+      <M_idx>375</M_idx>
+      <H_idx>46</H_idx>
+      <M_id>7</M_id>
+      <Temp>25.5999832</Temp>
+      <Pressure>17.7999916</Pressure>
+      <Flow>1.88000011</Flow>
+      <Humidity>49.9999962</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure377" msdata:rowOrder="376" diffgr:hasChanges="inserted">
+      <M_idx>376</M_idx>
+      <H_idx>47</H_idx>
+      <M_id>0</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>17.899992</Pressure>
+      <Flow>1.8900001</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure378" msdata:rowOrder="377" diffgr:hasChanges="inserted">
+      <M_idx>377</M_idx>
+      <H_idx>47</H_idx>
+      <M_id>1</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>17.899992</Pressure>
+      <Flow>1.8900001</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure379" msdata:rowOrder="378" diffgr:hasChanges="inserted">
+      <M_idx>378</M_idx>
+      <H_idx>47</H_idx>
+      <M_id>2</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>17.899992</Pressure>
+      <Flow>1.8900001</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure380" msdata:rowOrder="379" diffgr:hasChanges="inserted">
+      <M_idx>379</M_idx>
+      <H_idx>47</H_idx>
+      <M_id>3</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>17.899992</Pressure>
+      <Flow>1.8900001</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure381" msdata:rowOrder="380" diffgr:hasChanges="inserted">
+      <M_idx>380</M_idx>
+      <H_idx>47</H_idx>
+      <M_id>4</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>17.899992</Pressure>
+      <Flow>1.8900001</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure382" msdata:rowOrder="381" diffgr:hasChanges="inserted">
+      <M_idx>381</M_idx>
+      <H_idx>47</H_idx>
+      <M_id>5</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>17.899992</Pressure>
+      <Flow>1.8900001</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure383" msdata:rowOrder="382" diffgr:hasChanges="inserted">
+      <M_idx>382</M_idx>
+      <H_idx>47</H_idx>
+      <M_id>6</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>17.899992</Pressure>
+      <Flow>1.8900001</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure384" msdata:rowOrder="383" diffgr:hasChanges="inserted">
+      <M_idx>383</M_idx>
+      <H_idx>47</H_idx>
+      <M_id>7</M_id>
+      <Temp>25.799984</Temp>
+      <Pressure>17.899992</Pressure>
+      <Flow>1.8900001</Flow>
+      <Humidity>50.4899979</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure385" msdata:rowOrder="384" diffgr:hasChanges="inserted">
+      <M_idx>384</M_idx>
+      <H_idx>48</H_idx>
+      <M_id>0</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>17.9999924</Pressure>
+      <Flow>1.9000001</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure386" msdata:rowOrder="385" diffgr:hasChanges="inserted">
+      <M_idx>385</M_idx>
+      <H_idx>48</H_idx>
+      <M_id>1</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>17.9999924</Pressure>
+      <Flow>1.9000001</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure387" msdata:rowOrder="386" diffgr:hasChanges="inserted">
+      <M_idx>386</M_idx>
+      <H_idx>48</H_idx>
+      <M_id>2</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>17.9999924</Pressure>
+      <Flow>1.9000001</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure388" msdata:rowOrder="387" diffgr:hasChanges="inserted">
+      <M_idx>387</M_idx>
+      <H_idx>48</H_idx>
+      <M_id>3</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>17.9999924</Pressure>
+      <Flow>1.9000001</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure389" msdata:rowOrder="388" diffgr:hasChanges="inserted">
+      <M_idx>388</M_idx>
+      <H_idx>48</H_idx>
+      <M_id>4</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>17.9999924</Pressure>
+      <Flow>1.9000001</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure390" msdata:rowOrder="389" diffgr:hasChanges="inserted">
+      <M_idx>389</M_idx>
+      <H_idx>48</H_idx>
+      <M_id>5</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>17.9999924</Pressure>
+      <Flow>1.9000001</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure391" msdata:rowOrder="390" diffgr:hasChanges="inserted">
+      <M_idx>390</M_idx>
+      <H_idx>48</H_idx>
+      <M_id>6</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>17.9999924</Pressure>
+      <Flow>1.9000001</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure392" msdata:rowOrder="391" diffgr:hasChanges="inserted">
+      <M_idx>391</M_idx>
+      <H_idx>48</H_idx>
+      <M_id>7</M_id>
+      <Temp>25.9999847</Temp>
+      <Pressure>17.9999924</Pressure>
+      <Flow>1.9000001</Flow>
+      <Humidity>50.98</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure393" msdata:rowOrder="392" diffgr:hasChanges="inserted">
+      <M_idx>392</M_idx>
+      <H_idx>49</H_idx>
+      <M_id>0</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>18.0999928</Pressure>
+      <Flow>1.91000009</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure394" msdata:rowOrder="393" diffgr:hasChanges="inserted">
+      <M_idx>393</M_idx>
+      <H_idx>49</H_idx>
+      <M_id>1</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>18.0999928</Pressure>
+      <Flow>1.91000009</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure395" msdata:rowOrder="394" diffgr:hasChanges="inserted">
+      <M_idx>394</M_idx>
+      <H_idx>49</H_idx>
+      <M_id>2</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>18.0999928</Pressure>
+      <Flow>1.91000009</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure396" msdata:rowOrder="395" diffgr:hasChanges="inserted">
+      <M_idx>395</M_idx>
+      <H_idx>49</H_idx>
+      <M_id>3</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>18.0999928</Pressure>
+      <Flow>1.91000009</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure397" msdata:rowOrder="396" diffgr:hasChanges="inserted">
+      <M_idx>396</M_idx>
+      <H_idx>49</H_idx>
+      <M_id>4</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>18.0999928</Pressure>
+      <Flow>1.91000009</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure398" msdata:rowOrder="397" diffgr:hasChanges="inserted">
+      <M_idx>397</M_idx>
+      <H_idx>49</H_idx>
+      <M_id>5</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>18.0999928</Pressure>
+      <Flow>1.91000009</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure399" msdata:rowOrder="398" diffgr:hasChanges="inserted">
+      <M_idx>398</M_idx>
+      <H_idx>49</H_idx>
+      <M_id>6</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>18.0999928</Pressure>
+      <Flow>1.91000009</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure400" msdata:rowOrder="399" diffgr:hasChanges="inserted">
+      <M_idx>399</M_idx>
+      <H_idx>49</H_idx>
+      <M_id>7</M_id>
+      <Temp>26.1999855</Temp>
+      <Pressure>18.0999928</Pressure>
+      <Flow>1.91000009</Flow>
+      <Humidity>51.47</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure401" msdata:rowOrder="400" diffgr:hasChanges="inserted">
+      <M_idx>400</M_idx>
+      <H_idx>50</H_idx>
+      <M_id>0</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>18.1999931</Pressure>
+      <Flow>1.92000008</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure402" msdata:rowOrder="401" diffgr:hasChanges="inserted">
+      <M_idx>401</M_idx>
+      <H_idx>50</H_idx>
+      <M_id>1</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>18.1999931</Pressure>
+      <Flow>1.92000008</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure403" msdata:rowOrder="402" diffgr:hasChanges="inserted">
+      <M_idx>402</M_idx>
+      <H_idx>50</H_idx>
+      <M_id>2</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>18.1999931</Pressure>
+      <Flow>1.92000008</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure404" msdata:rowOrder="403" diffgr:hasChanges="inserted">
+      <M_idx>403</M_idx>
+      <H_idx>50</H_idx>
+      <M_id>3</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>18.1999931</Pressure>
+      <Flow>1.92000008</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure405" msdata:rowOrder="404" diffgr:hasChanges="inserted">
+      <M_idx>404</M_idx>
+      <H_idx>50</H_idx>
+      <M_id>4</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>18.1999931</Pressure>
+      <Flow>1.92000008</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure406" msdata:rowOrder="405" diffgr:hasChanges="inserted">
+      <M_idx>405</M_idx>
+      <H_idx>50</H_idx>
+      <M_id>5</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>18.1999931</Pressure>
+      <Flow>1.92000008</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure407" msdata:rowOrder="406" diffgr:hasChanges="inserted">
+      <M_idx>406</M_idx>
+      <H_idx>50</H_idx>
+      <M_id>6</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>18.1999931</Pressure>
+      <Flow>1.92000008</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure408" msdata:rowOrder="407" diffgr:hasChanges="inserted">
+      <M_idx>407</M_idx>
+      <H_idx>50</H_idx>
+      <M_id>7</M_id>
+      <Temp>26.3999863</Temp>
+      <Pressure>18.1999931</Pressure>
+      <Flow>1.92000008</Flow>
+      <Humidity>51.9600029</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure409" msdata:rowOrder="408" diffgr:hasChanges="inserted">
+      <M_idx>408</M_idx>
+      <H_idx>51</H_idx>
+      <M_id>0</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>18.2999935</Pressure>
+      <Flow>1.93000007</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure410" msdata:rowOrder="409" diffgr:hasChanges="inserted">
+      <M_idx>409</M_idx>
+      <H_idx>51</H_idx>
+      <M_id>1</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>18.2999935</Pressure>
+      <Flow>1.93000007</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure411" msdata:rowOrder="410" diffgr:hasChanges="inserted">
+      <M_idx>410</M_idx>
+      <H_idx>51</H_idx>
+      <M_id>2</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>18.2999935</Pressure>
+      <Flow>1.93000007</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure412" msdata:rowOrder="411" diffgr:hasChanges="inserted">
+      <M_idx>411</M_idx>
+      <H_idx>51</H_idx>
+      <M_id>3</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>18.2999935</Pressure>
+      <Flow>1.93000007</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure413" msdata:rowOrder="412" diffgr:hasChanges="inserted">
+      <M_idx>412</M_idx>
+      <H_idx>51</H_idx>
+      <M_id>4</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>18.2999935</Pressure>
+      <Flow>1.93000007</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure414" msdata:rowOrder="413" diffgr:hasChanges="inserted">
+      <M_idx>413</M_idx>
+      <H_idx>51</H_idx>
+      <M_id>5</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>18.2999935</Pressure>
+      <Flow>1.93000007</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure415" msdata:rowOrder="414" diffgr:hasChanges="inserted">
+      <M_idx>414</M_idx>
+      <H_idx>51</H_idx>
+      <M_id>6</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>18.2999935</Pressure>
+      <Flow>1.93000007</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure416" msdata:rowOrder="415" diffgr:hasChanges="inserted">
+      <M_idx>415</M_idx>
+      <H_idx>51</H_idx>
+      <M_id>7</M_id>
+      <Temp>26.599987</Temp>
+      <Pressure>18.2999935</Pressure>
+      <Flow>1.93000007</Flow>
+      <Humidity>52.4500046</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure417" msdata:rowOrder="416" diffgr:hasChanges="inserted">
+      <M_idx>416</M_idx>
+      <H_idx>52</H_idx>
+      <M_id>0</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>18.3999939</Pressure>
+      <Flow>1.94</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure418" msdata:rowOrder="417" diffgr:hasChanges="inserted">
+      <M_idx>417</M_idx>
+      <H_idx>52</H_idx>
+      <M_id>1</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>18.3999939</Pressure>
+      <Flow>1.94</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure419" msdata:rowOrder="418" diffgr:hasChanges="inserted">
+      <M_idx>418</M_idx>
+      <H_idx>52</H_idx>
+      <M_id>2</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>18.3999939</Pressure>
+      <Flow>1.94</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure420" msdata:rowOrder="419" diffgr:hasChanges="inserted">
+      <M_idx>419</M_idx>
+      <H_idx>52</H_idx>
+      <M_id>3</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>18.3999939</Pressure>
+      <Flow>1.94</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure421" msdata:rowOrder="420" diffgr:hasChanges="inserted">
+      <M_idx>420</M_idx>
+      <H_idx>52</H_idx>
+      <M_id>4</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>18.3999939</Pressure>
+      <Flow>1.94</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure422" msdata:rowOrder="421" diffgr:hasChanges="inserted">
+      <M_idx>421</M_idx>
+      <H_idx>52</H_idx>
+      <M_id>5</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>18.3999939</Pressure>
+      <Flow>1.94</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure423" msdata:rowOrder="422" diffgr:hasChanges="inserted">
+      <M_idx>422</M_idx>
+      <H_idx>52</H_idx>
+      <M_id>6</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>18.3999939</Pressure>
+      <Flow>1.94</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure424" msdata:rowOrder="423" diffgr:hasChanges="inserted">
+      <M_idx>423</M_idx>
+      <H_idx>52</H_idx>
+      <M_id>7</M_id>
+      <Temp>26.7999878</Temp>
+      <Pressure>18.3999939</Pressure>
+      <Flow>1.94</Flow>
+      <Humidity>52.9400063</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure425" msdata:rowOrder="424" diffgr:hasChanges="inserted">
+      <M_idx>424</M_idx>
+      <H_idx>53</H_idx>
+      <M_id>0</M_id>
+      <Temp>26.9999886</Temp>
+      <Pressure>18.4999943</Pressure>
+      <Flow>1.95</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure426" msdata:rowOrder="425" diffgr:hasChanges="inserted">
+      <M_idx>425</M_idx>
+      <H_idx>53</H_idx>
+      <M_id>1</M_id>
+      <Temp>26.9999886</Temp>
+      <Pressure>18.4999943</Pressure>
+      <Flow>1.95</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure427" msdata:rowOrder="426" diffgr:hasChanges="inserted">
+      <M_idx>426</M_idx>
+      <H_idx>53</H_idx>
+      <M_id>2</M_id>
+      <Temp>26.9999886</Temp>
+      <Pressure>18.4999943</Pressure>
+      <Flow>1.95</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure428" msdata:rowOrder="427" diffgr:hasChanges="inserted">
+      <M_idx>427</M_idx>
+      <H_idx>53</H_idx>
+      <M_id>3</M_id>
+      <Temp>26.9999886</Temp>
+      <Pressure>18.4999943</Pressure>
+      <Flow>1.95</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure429" msdata:rowOrder="428" diffgr:hasChanges="inserted">
+      <M_idx>428</M_idx>
+      <H_idx>53</H_idx>
+      <M_id>4</M_id>
+      <Temp>26.9999886</Temp>
+      <Pressure>18.4999943</Pressure>
+      <Flow>1.95</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure430" msdata:rowOrder="429" diffgr:hasChanges="inserted">
+      <M_idx>429</M_idx>
+      <H_idx>53</H_idx>
+      <M_id>5</M_id>
+      <Temp>26.9999886</Temp>
+      <Pressure>18.4999943</Pressure>
+      <Flow>1.95</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure431" msdata:rowOrder="430" diffgr:hasChanges="inserted">
+      <M_idx>430</M_idx>
+      <H_idx>53</H_idx>
+      <M_id>6</M_id>
+      <Temp>26.9999886</Temp>
+      <Pressure>18.4999943</Pressure>
+      <Flow>1.95</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure432" msdata:rowOrder="431" diffgr:hasChanges="inserted">
+      <M_idx>431</M_idx>
+      <H_idx>53</H_idx>
+      <M_id>7</M_id>
+      <Temp>26.9999886</Temp>
+      <Pressure>18.4999943</Pressure>
+      <Flow>1.95</Flow>
+      <Humidity>53.4300079</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure433" msdata:rowOrder="432" diffgr:hasChanges="inserted">
+      <M_idx>432</M_idx>
+      <H_idx>54</H_idx>
+      <M_id>0</M_id>
+      <Temp>27.19999</Temp>
+      <Pressure>18.5999947</Pressure>
+      <Flow>1.96</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure434" msdata:rowOrder="433" diffgr:hasChanges="inserted">
+      <M_idx>433</M_idx>
+      <H_idx>54</H_idx>
+      <M_id>1</M_id>
+      <Temp>27.19999</Temp>
+      <Pressure>18.5999947</Pressure>
+      <Flow>1.96</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure435" msdata:rowOrder="434" diffgr:hasChanges="inserted">
+      <M_idx>434</M_idx>
+      <H_idx>54</H_idx>
+      <M_id>2</M_id>
+      <Temp>27.19999</Temp>
+      <Pressure>18.5999947</Pressure>
+      <Flow>1.96</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure436" msdata:rowOrder="435" diffgr:hasChanges="inserted">
+      <M_idx>435</M_idx>
+      <H_idx>54</H_idx>
+      <M_id>3</M_id>
+      <Temp>27.19999</Temp>
+      <Pressure>18.5999947</Pressure>
+      <Flow>1.96</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure437" msdata:rowOrder="436" diffgr:hasChanges="inserted">
+      <M_idx>436</M_idx>
+      <H_idx>54</H_idx>
+      <M_id>4</M_id>
+      <Temp>27.19999</Temp>
+      <Pressure>18.5999947</Pressure>
+      <Flow>1.96</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure438" msdata:rowOrder="437" diffgr:hasChanges="inserted">
+      <M_idx>437</M_idx>
+      <H_idx>54</H_idx>
+      <M_id>5</M_id>
+      <Temp>27.19999</Temp>
+      <Pressure>18.5999947</Pressure>
+      <Flow>1.96</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure439" msdata:rowOrder="438" diffgr:hasChanges="inserted">
+      <M_idx>438</M_idx>
+      <H_idx>54</H_idx>
+      <M_id>6</M_id>
+      <Temp>27.19999</Temp>
+      <Pressure>18.5999947</Pressure>
+      <Flow>1.96</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure440" msdata:rowOrder="439" diffgr:hasChanges="inserted">
+      <M_idx>439</M_idx>
+      <H_idx>54</H_idx>
+      <M_id>7</M_id>
+      <Temp>27.19999</Temp>
+      <Pressure>18.5999947</Pressure>
+      <Flow>1.96</Flow>
+      <Humidity>53.92001</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure441" msdata:rowOrder="440" diffgr:hasChanges="inserted">
+      <M_idx>440</M_idx>
+      <H_idx>55</H_idx>
+      <M_id>0</M_id>
+      <Temp>27.39999</Temp>
+      <Pressure>18.699995</Pressure>
+      <Flow>1.97</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure442" msdata:rowOrder="441" diffgr:hasChanges="inserted">
+      <M_idx>441</M_idx>
+      <H_idx>55</H_idx>
+      <M_id>1</M_id>
+      <Temp>27.39999</Temp>
+      <Pressure>18.699995</Pressure>
+      <Flow>1.97</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure443" msdata:rowOrder="442" diffgr:hasChanges="inserted">
+      <M_idx>442</M_idx>
+      <H_idx>55</H_idx>
+      <M_id>2</M_id>
+      <Temp>27.39999</Temp>
+      <Pressure>18.699995</Pressure>
+      <Flow>1.97</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure444" msdata:rowOrder="443" diffgr:hasChanges="inserted">
+      <M_idx>443</M_idx>
+      <H_idx>55</H_idx>
+      <M_id>3</M_id>
+      <Temp>27.39999</Temp>
+      <Pressure>18.699995</Pressure>
+      <Flow>1.97</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure445" msdata:rowOrder="444" diffgr:hasChanges="inserted">
+      <M_idx>444</M_idx>
+      <H_idx>55</H_idx>
+      <M_id>4</M_id>
+      <Temp>27.39999</Temp>
+      <Pressure>18.699995</Pressure>
+      <Flow>1.97</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure446" msdata:rowOrder="445" diffgr:hasChanges="inserted">
+      <M_idx>445</M_idx>
+      <H_idx>55</H_idx>
+      <M_id>5</M_id>
+      <Temp>27.39999</Temp>
+      <Pressure>18.699995</Pressure>
+      <Flow>1.97</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure447" msdata:rowOrder="446" diffgr:hasChanges="inserted">
+      <M_idx>446</M_idx>
+      <H_idx>55</H_idx>
+      <M_id>6</M_id>
+      <Temp>27.39999</Temp>
+      <Pressure>18.699995</Pressure>
+      <Flow>1.97</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure448" msdata:rowOrder="447" diffgr:hasChanges="inserted">
+      <M_idx>447</M_idx>
+      <H_idx>55</H_idx>
+      <M_id>7</M_id>
+      <Temp>27.39999</Temp>
+      <Pressure>18.699995</Pressure>
+      <Flow>1.97</Flow>
+      <Humidity>54.41001</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure449" msdata:rowOrder="448" diffgr:hasChanges="inserted">
+      <M_idx>448</M_idx>
+      <H_idx>56</H_idx>
+      <M_id>0</M_id>
+      <Temp>27.59999</Temp>
+      <Pressure>18.7999954</Pressure>
+      <Flow>1.98</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure450" msdata:rowOrder="449" diffgr:hasChanges="inserted">
+      <M_idx>449</M_idx>
+      <H_idx>56</H_idx>
+      <M_id>1</M_id>
+      <Temp>27.59999</Temp>
+      <Pressure>18.7999954</Pressure>
+      <Flow>1.98</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure451" msdata:rowOrder="450" diffgr:hasChanges="inserted">
+      <M_idx>450</M_idx>
+      <H_idx>56</H_idx>
+      <M_id>2</M_id>
+      <Temp>27.59999</Temp>
+      <Pressure>18.7999954</Pressure>
+      <Flow>1.98</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure452" msdata:rowOrder="451" diffgr:hasChanges="inserted">
+      <M_idx>451</M_idx>
+      <H_idx>56</H_idx>
+      <M_id>3</M_id>
+      <Temp>27.59999</Temp>
+      <Pressure>18.7999954</Pressure>
+      <Flow>1.98</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure453" msdata:rowOrder="452" diffgr:hasChanges="inserted">
+      <M_idx>452</M_idx>
+      <H_idx>56</H_idx>
+      <M_id>4</M_id>
+      <Temp>27.59999</Temp>
+      <Pressure>18.7999954</Pressure>
+      <Flow>1.98</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure454" msdata:rowOrder="453" diffgr:hasChanges="inserted">
+      <M_idx>453</M_idx>
+      <H_idx>56</H_idx>
+      <M_id>5</M_id>
+      <Temp>27.59999</Temp>
+      <Pressure>18.7999954</Pressure>
+      <Flow>1.98</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure455" msdata:rowOrder="454" diffgr:hasChanges="inserted">
+      <M_idx>454</M_idx>
+      <H_idx>56</H_idx>
+      <M_id>6</M_id>
+      <Temp>27.59999</Temp>
+      <Pressure>18.7999954</Pressure>
+      <Flow>1.98</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure456" msdata:rowOrder="455" diffgr:hasChanges="inserted">
+      <M_idx>455</M_idx>
+      <H_idx>56</H_idx>
+      <M_id>7</M_id>
+      <Temp>27.59999</Temp>
+      <Pressure>18.7999954</Pressure>
+      <Flow>1.98</Flow>
+      <Humidity>54.900013</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure457" msdata:rowOrder="456" diffgr:hasChanges="inserted">
+      <M_idx>456</M_idx>
+      <H_idx>57</H_idx>
+      <M_id>0</M_id>
+      <Temp>27.7999916</Temp>
+      <Pressure>18.8999958</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure458" msdata:rowOrder="457" diffgr:hasChanges="inserted">
+      <M_idx>457</M_idx>
+      <H_idx>57</H_idx>
+      <M_id>1</M_id>
+      <Temp>27.7999916</Temp>
+      <Pressure>18.8999958</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure459" msdata:rowOrder="458" diffgr:hasChanges="inserted">
+      <M_idx>458</M_idx>
+      <H_idx>57</H_idx>
+      <M_id>2</M_id>
+      <Temp>27.7999916</Temp>
+      <Pressure>18.8999958</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure460" msdata:rowOrder="459" diffgr:hasChanges="inserted">
+      <M_idx>459</M_idx>
+      <H_idx>57</H_idx>
+      <M_id>3</M_id>
+      <Temp>27.7999916</Temp>
+      <Pressure>18.8999958</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure461" msdata:rowOrder="460" diffgr:hasChanges="inserted">
+      <M_idx>460</M_idx>
+      <H_idx>57</H_idx>
+      <M_id>4</M_id>
+      <Temp>27.7999916</Temp>
+      <Pressure>18.8999958</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure462" msdata:rowOrder="461" diffgr:hasChanges="inserted">
+      <M_idx>461</M_idx>
+      <H_idx>57</H_idx>
+      <M_id>5</M_id>
+      <Temp>27.7999916</Temp>
+      <Pressure>18.8999958</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure463" msdata:rowOrder="462" diffgr:hasChanges="inserted">
+      <M_idx>462</M_idx>
+      <H_idx>57</H_idx>
+      <M_id>6</M_id>
+      <Temp>27.7999916</Temp>
+      <Pressure>18.8999958</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure464" msdata:rowOrder="463" diffgr:hasChanges="inserted">
+      <M_idx>463</M_idx>
+      <H_idx>57</H_idx>
+      <M_id>7</M_id>
+      <Temp>27.7999916</Temp>
+      <Pressure>18.8999958</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>55.3900146</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure465" msdata:rowOrder="464" diffgr:hasChanges="inserted">
+      <M_idx>464</M_idx>
+      <H_idx>58</H_idx>
+      <M_id>0</M_id>
+      <Temp>27.9999924</Temp>
+      <Pressure>18.9999962</Pressure>
+      <Flow>2</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure466" msdata:rowOrder="465" diffgr:hasChanges="inserted">
+      <M_idx>465</M_idx>
+      <H_idx>58</H_idx>
+      <M_id>1</M_id>
+      <Temp>27.9999924</Temp>
+      <Pressure>18.9999962</Pressure>
+      <Flow>2</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure467" msdata:rowOrder="466" diffgr:hasChanges="inserted">
+      <M_idx>466</M_idx>
+      <H_idx>58</H_idx>
+      <M_id>2</M_id>
+      <Temp>27.9999924</Temp>
+      <Pressure>18.9999962</Pressure>
+      <Flow>2</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure468" msdata:rowOrder="467" diffgr:hasChanges="inserted">
+      <M_idx>467</M_idx>
+      <H_idx>58</H_idx>
+      <M_id>3</M_id>
+      <Temp>27.9999924</Temp>
+      <Pressure>18.9999962</Pressure>
+      <Flow>2</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure469" msdata:rowOrder="468" diffgr:hasChanges="inserted">
+      <M_idx>468</M_idx>
+      <H_idx>58</H_idx>
+      <M_id>4</M_id>
+      <Temp>27.9999924</Temp>
+      <Pressure>18.9999962</Pressure>
+      <Flow>2</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure470" msdata:rowOrder="469" diffgr:hasChanges="inserted">
+      <M_idx>469</M_idx>
+      <H_idx>58</H_idx>
+      <M_id>5</M_id>
+      <Temp>27.9999924</Temp>
+      <Pressure>18.9999962</Pressure>
+      <Flow>2</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure471" msdata:rowOrder="470" diffgr:hasChanges="inserted">
+      <M_idx>470</M_idx>
+      <H_idx>58</H_idx>
+      <M_id>6</M_id>
+      <Temp>27.9999924</Temp>
+      <Pressure>18.9999962</Pressure>
+      <Flow>2</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure472" msdata:rowOrder="471" diffgr:hasChanges="inserted">
+      <M_idx>471</M_idx>
+      <H_idx>58</H_idx>
+      <M_id>7</M_id>
+      <Temp>27.9999924</Temp>
+      <Pressure>18.9999962</Pressure>
+      <Flow>2</Flow>
+      <Humidity>55.8800163</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure473" msdata:rowOrder="472" diffgr:hasChanges="inserted">
+      <M_idx>472</M_idx>
+      <H_idx>59</H_idx>
+      <M_id>0</M_id>
+      <Temp>28.1999931</Temp>
+      <Pressure>19.0999966</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK01</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure474" msdata:rowOrder="473" diffgr:hasChanges="inserted">
+      <M_idx>473</M_idx>
+      <H_idx>59</H_idx>
+      <M_id>1</M_id>
+      <Temp>28.1999931</Temp>
+      <Pressure>19.0999966</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK02</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure475" msdata:rowOrder="474" diffgr:hasChanges="inserted">
+      <M_idx>474</M_idx>
+      <H_idx>59</H_idx>
+      <M_id>2</M_id>
+      <Temp>28.1999931</Temp>
+      <Pressure>19.0999966</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK03</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure476" msdata:rowOrder="475" diffgr:hasChanges="inserted">
+      <M_idx>475</M_idx>
+      <H_idx>59</H_idx>
+      <M_id>3</M_id>
+      <Temp>28.1999931</Temp>
+      <Pressure>19.0999966</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK04</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure477" msdata:rowOrder="476" diffgr:hasChanges="inserted">
+      <M_idx>476</M_idx>
+      <H_idx>59</H_idx>
+      <M_id>4</M_id>
+      <Temp>28.1999931</Temp>
+      <Pressure>19.0999966</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK05</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure478" msdata:rowOrder="477" diffgr:hasChanges="inserted">
+      <M_idx>477</M_idx>
+      <H_idx>59</H_idx>
+      <M_id>5</M_id>
+      <Temp>28.1999931</Temp>
+      <Pressure>19.0999966</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK06</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure479" msdata:rowOrder="478" diffgr:hasChanges="inserted">
+      <M_idx>478</M_idx>
+      <H_idx>59</H_idx>
+      <M_id>6</M_id>
+      <Temp>28.1999931</Temp>
+      <Pressure>19.0999966</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK07</M_desc>
+    </Measure>
+    <Measure diffgr:id="Measure480" msdata:rowOrder="479" diffgr:hasChanges="inserted">
+      <M_idx>479</M_idx>
+      <H_idx>59</H_idx>
+      <M_id>7</M_id>
+      <Temp>28.1999931</Temp>
+      <Pressure>19.0999966</Pressure>
+      <Flow>1.99</Flow>
+      <Humidity>56.370018</Humidity>
+      <M_desc>MK08</M_desc>
+    </Measure>
+  </XMLDB>
+</diffgr:diffgram>
